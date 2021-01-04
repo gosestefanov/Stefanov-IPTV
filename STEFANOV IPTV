@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Makedonija" tvg-logo="https://ibb.co/W0LBLWR" group-title="Makedonija",Channel 1 (Makedonija)
-#EXTINF:-1,MRT 1 HD MK
+#EXTINF:-1,group-title="Makedonija" tvg-id="MRT 1 HD MK"
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 
@@ -21,10 +21,3 @@ http://super1.ideaiptv.com:2052/bandook/3243243/28151
 http://super1.ideaiptv.com:2052/bandook/3243243/28152
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="??",Channel 3 (Group1,Group2)
-http://example.com/ch3.mp4
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="??",Channel 4 (Group1,Group2,Group3)
-http://example.com/ch4.mp4
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="??",Channel 5 (Group2,Group3)
-http://example.com/ch5.mp4
