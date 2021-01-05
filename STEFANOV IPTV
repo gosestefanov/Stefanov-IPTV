@@ -1,10 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MRT 1" tvg-name="MRT 1" group-title="Macedonia 2" ,MRT1 ,http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399)
+#EXTINF:0 group-title="Macedonia 3",MRT1
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+#EXTINF:0,RBK
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:0 tvg-id="brodilo",Brodilo TV
+http://brodilo.tv/channel.php
+#EXTINF:0,Youtube Live
+https://youtu.be/9Auq9mYxFEE,live
+
+#EXTINF:0,MKV
+http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
+#EXTINF:0,MP4
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="MRT 1" tvg-name="MRT 1" group-title="Macedonia 2" ,MRT1 ,http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 
 #EXTM3U
 #EXTINF:-1 group-title="Macedonia",MRT 1 
 #EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 
 #EXTINF:-1 tvg-id="#" tvg-name="#" group-title="Swic"
 #EXTVLCOPT:network-caching=1000
