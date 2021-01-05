@@ -2,7 +2,7 @@
 #EXTINF:0 group-title="Macedonia",MRT 1 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
-MRT 1 HD MK
+#EXTINF:0 group-title="Macedonia",MRT 1 HD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 MRT 2 FHD MK
