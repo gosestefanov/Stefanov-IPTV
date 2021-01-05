@@ -157,6 +157,194 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685983
 #EXTINF:0 group-title="Macedonia",INTV Avstralija HD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674106
+
+#EXTINF:0 group-title="EX-YU",HBO 3
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28101
+#EXTINF:0 group-title="EX-YU",DIVA
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28102
+#EXTINF:0,EX-YU: Fox
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28103
+#EXTINF:0,EX-YU: CineStar Premiere 2
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28104
+#EXTINF:0,EX-YU: Cinemax
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28105
+#EXTINF:0,EX-YU: Cinemax 2
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28106
+#EXTINF:0,EX-YU: BN MUSIC
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28107
+#EXTINF:0,EX-YU: Balkanika TV
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28108
+#EXTINF:0,EX-YU: CMC
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28109
+#EXTINF:0,EX-YU: DM SAT
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28110
+#EXTINF:0,EX-YU: GRAND TV
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28111
+#EXTINF:0,EX-YU: Grand TV 2
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28112
+#EXTINF:0,EX-YU: KCN 1
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28113
+#EXTINF:0,EX-YU: KCN 2
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28114
+#EXTINF:0,EX-YU:  KCN 3
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28115
+#EXTINF:0,EX-YU: MTV Igman
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28116
+#EXTINF:0,EX-YU: Jugoton
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28117
+#EXTINF:0,EX-YU: Izvorna TV
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28118
+#EXTINF:0,EX-YU: OTV Valentino
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28119
+#EXTINF:0,EX-YU: NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28120
+#EXTINF:0,EX-YU: NICK JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28121
+#EXTINF:0,EX-YU: HAYATOVCI
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28122
+#EXTINF:0,EX-YU: BABY TV
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28123
+#EXTINF:0,EX-YU: Discovery
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28124
+#EXTINF:0,EX-YU: Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28125
+#EXTINF:0,EX-YU: 24 Kitchen
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28126
+#EXTINF:0,EX-YU: History
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28127
+#EXTINF:0,EX-YU: Lov i ribolov
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28128
+#EXTINF:0,EX-YU: History h2
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28129
+#EXTINF:0,EX-YU: ARENA SPORT 1 HR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28130
+#EXTINF:0,EX-YU: ARENA SPORT 2 HR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28131
+#EXTINF:0,EX-YU: ARENA SPORT 3 HR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28132
+#EXTINF:0,EX-YU: ARENA SPORT 5 HR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28133
+#EXTINF:0,EX-YU: ARENA SPORT 1 SRB
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28134
+#EXTINF:0,EX-YU: ARENA SPORT 3 SRB
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28135
+#EXTINF:0,EX-YU: ARENA SPORT 4 SRB
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28136
+#EXTINF:0,EX-YU: ARENA SPORT 5 SRB
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28137
+#EXTINF:0,EX-YU: SPORT KLUB 1 HR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28138
+#EXTINF:0,EX-YU: SPORT KLUB 2 HR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28139
+#EXTINF:0,EX-YU: SPORT KLUB 3 HR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28140
+#EXTINF:0,EX-YU: SPORT KLUB 4 HR
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28141
+#EXTINF:0,EX-YU: SPORT KLUB 1 SRB
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28142
+#EXTINF:0,EX-YU: SPORT KLUB 2 SRB
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28143
+#EXTINF:0,EX-YU: SPORT KLUB 3 SRB
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28144
+#EXTINF:0,EX-YU: Planet Sport 1
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28145
+#EXTINF:0,EX-YU: Planet Sport 2
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28146
+#EXTINF:0,EX-YU: Planet Sport 5
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28147
+#EXTINF:0,EX-YU: Moja TV Premijer Liga
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28148
+#EXTINF:0,EX-YU: Pink 1
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28149
+#EXTINF:0,EX-YU: Pink 2
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28150
+#EXTINF:0,EX-YU: Pink 3
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28151
+#EXTINF:0,EX-YU: Pink Action
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28152
+#EXTINF:0,EX-YU : Pink Comedy
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28153
+#EXTINF:0,EX-YU: Pink Crime & Mistery
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28154
+#EXTINF:0,EX-YU: Pink Film
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28155
+#EXTINF:0,EX-YU: Pink Horror
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28156
+#EXTINF:0,EX-YU: Pink Premium
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28157
+#EXTINF:0,EX-YU: Pink Serije
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28158
+#EXTINF:0,EX-YU: Pink Thriller
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28159
+#EXTINF:0,EX-YU: Pink Western
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28160
+#EXTINF:0,EX-YU: Pink classic
+#EXTVLCOPT:network-caching=1000
+http://super1.ideaiptv.com:2052/bandook/3243243/28161
+
+
+
+
 #EXTINF:0 group-title="Switzerland",SRF 1 HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7909
@@ -184,34 +372,34 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8985
 #EXTINF:0 group-title="Switzerland",3+ HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672295
-#EXTINF:0,4+ HD CH
+#EXTINF:0 group-title="Switzerland",4+ HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672294
-#EXTINF:0,5+ HD CH
+#EXTINF:0 group-title="Switzerland",5+ HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8992
-#EXTINF:0,Blue Sport 1 FHD CH
+#EXTINF:0 group-title="Switzerland",Blue Sport 1 FHD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7903
-#EXTINF:0,Blue Sport 2 FHD CH
+#EXTINF:0 group-title="Switzerland",Blue Sport 2 FHD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677923
-#EXTINF:0,Blue Action FHD CH
+#EXTINF:0 group-title="Switzerland",Blue Action FHD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668093
-#EXTINF:0,Blue Prime FHD CH
+#EXTINF:0 group-title="Switzerland",Blue Prime FHD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9005
-#EXTINF:0,Blue Emotion FHD CH
+#EXTINF:0 group-title="Switzerland",Blue Emotion FHD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668094
-#EXTINF:0,Blue Zoom HD CH
+#EXTINF:0 group-title="Switzerland",Blue Zoom HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655141
-#EXTINF:0,Tele Zurih CH
+#EXTINF:0 group-title="Switzerland",Tele Zurih CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7907
-#EXTINF:0,Tele M1 HD CH
+#EXTINF:0 group-title="Switzerland",Tele M1 HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8990
 #EXTINF:0,Blue Top HD CH
@@ -232,12 +420,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7899
 #EXTINF:0,TVO HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7900
-#EXTINF:0 group-title="Macedonia"
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7898
-#EXTINF:0,------- Nacionalni & lokalni -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683224
+
+
+
+
 #EXTINF:0,########## Malaysia ##########
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7775
@@ -247,12 +433,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7791
 #EXTINF:0,SkyNet Sports 2 HD MY
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7790
+
+
+
 #EXTINF:0,########## Spain ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7257
-#EXTINF:0,------- Main & Regional -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679810
 #EXTINF:0,LA1 FHD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16288
@@ -346,9 +530,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683552
 #EXTINF:0,Canaria SAT ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685648
-#EXTINF:0,------- Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679811
 #EXTINF:0,bein Sports Espana FHD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7248
@@ -481,9 +662,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684921
 #EXTINF:0,ETB 2 ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684923
-#EXTINF:0,------- Movies & Series -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679812
+
 #EXTINF:0,AXN HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7252
@@ -682,9 +861,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8768
 #EXTINF:0,Hollywood HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7216
-#EXTINF:0,------- Documentary -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679813
+
 #EXTINF:0,Discovery Channel ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7226
@@ -742,9 +919,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685777
 #EXTINF:0,Odisea TV ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8761
-#EXTINF:0,------- Entertainment -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679816
+
 #EXTINF:0,MTV Espana ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8759
@@ -793,6 +968,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53156
 #EXTINF:0,Clan TVE ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7231
+
+
 #EXTINF:0,########## Latino ##########
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6765
@@ -1060,12 +1237,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/637344
 #EXTINF:0,WAPA HD LA
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/638077
+
 #EXTINF:0,########## Sports ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5427
-#EXTINF:0,------- SuperSport AF -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682923
+
+
 #EXTINF:0,SuperSport Variety 1 HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678020
@@ -1114,9 +1289,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682919
 #EXTINF:0,SuperSport Blitz FHD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682921
-#EXTINF:0,------- AFL & Optus Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683279
 #EXTINF:0,Optus Sport [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683977
@@ -1174,9 +1346,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683277
 #EXTINF:0,AFL 9 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683278
-#EXTINF:0,-------  beIN Sports AR -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682924
 #EXTINF:0,beIN Sports News FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676904
@@ -1240,18 +1409,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667466
 #EXTINF:0,beIN Sports 12 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54715
-#EXTINF:0,------- beIN Sports US -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682938
 #EXTINF:0,beIN Sports HD US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682942
 #EXTINF:0,beIN Sports Espanol HD VIP US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678747
-#EXTINF:0,------- beIN Sports TR -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682925
 #EXTINF:0,beIN Sports Haber HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682950
@@ -1273,9 +1436,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682953
 #EXTINF:0,beIN Sports Max 2 HD VIP TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682954
-#EXTINF:0,------- beIN Sports FR -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682926
 #EXTINF:0,beIN Sports 1 HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682943
@@ -1300,9 +1460,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54678
 #EXTINF:0,beIN Sports Max 8 FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5466
-#EXTINF:0,------- RMC Sports FR -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682960
 #EXTINF:0,RMC Sport 1 FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682956
@@ -1357,9 +1514,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682970
 #EXTINF:0,RMC Sport 14 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682971
-#EXTINF:0,------- Global Sports EN -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683570
 #EXTINF:0,Sky Sports Main Event FHD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682993
@@ -1396,9 +1550,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5450
 #EXTINF:0,Freesports HD VIP UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682990
-#EXTINF:0,------- Global Sports AR -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683571
 #EXTINF:0,Saudi 24 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685725
@@ -1432,9 +1583,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682972
 #EXTINF:0,DMC Sports AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5403
-#EXTINF:0,------- Global Sports TR -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683572
 #EXTINF:0,TRT Spor 1 FHD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683139
@@ -1453,9 +1601,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682980
 #EXTINF:0,Smart Sport 1 HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5446
-#EXTINF:0,------- Global Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682927
 #EXTINF:0,Telefoot Stadium HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679093
@@ -1564,9 +1709,9 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5392
 #EXTINF:0,SuperSport FHD AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682920
+
+
 #EXTINF:0,########## Russian ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5378
 #EXTINF:0,1 FHD RU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/36886
@@ -1975,9 +2120,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37947
 #EXTINF:0,Bol News HD PK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53162
+
+
+
 #EXTINF:0,########## Czech ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6086
 #EXTINF:0,Jednotka CZ
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18708
@@ -2233,9 +2379,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6067
 #EXTINF:0,Ocko Express CZ
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/686545
+
+
+
+
+
 #EXTINF:0,########## Bulgarian ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5983
 #EXTINF:0,------- #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683446
 #EXTINF:0,BNT 1 FHD BG
@@ -2533,9 +2682,11 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37957
 #EXTINF:0,Tiankov Folk BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37952
+
+
+
+
 #EXTINF:0,########## Brazil ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6149
 #EXTINF:0,Animal Planet HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13643
@@ -2668,9 +2819,9 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16449
 #EXTINF:0,Warner BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6088
+
+
 #EXTINF:0,########## India ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5597
 #EXTINF:0,9XM IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4009
@@ -3133,9 +3284,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676906
 #EXTINF:0,Sahara Filmy IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676909
+
+
+
 #EXTINF:0,########## Iran ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3692
 #EXTINF:0,IRIB TV1 IR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/665274
@@ -3721,9 +3873,11 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682545
 #EXTINF:0,Bartar HD IR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682566
+
+
+
+
 #EXTINF:0,########## Afghanistan ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3656
 #EXTINF:0,Afghanistan TV AFG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682523
@@ -3805,9 +3959,11 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682520
 #EXTINF:0,Hewad TV AFG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682522
-#EXTINF:0,########## Adult ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5537
+
+
+
+
+#EXTINF:0,########## XXX ##########
 #EXTINF:0,Penthouse Gold FHD (18+) US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13863
@@ -5011,9 +5167,11 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/680092
 #EXTINF:0,Orgy Channel FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/680239
-#EXTINF:0,########## ULUSAL KANALLAR ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625942
+
+
+
+#EXTINF:0,########## TURKEY ##########
+
 #EXTINF:0,TRT 1 FHD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12835
@@ -5119,9 +5277,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8727
 #EXTINF:0,TLC HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13227
-#EXTINF:0,########## HABER KANALLAR ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625952
 #EXTINF:0,TRT Haber TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8664
@@ -5194,9 +5349,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8013
 #EXTINF:0,A News HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/627060
-#EXTINF:0,########## SPOR KANALLARI ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625943
 #EXTINF:0,beIN Sports Haber HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/623058
@@ -5401,9 +5553,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6846
 #EXTINF:0,Yaban TV HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8004
-#EXTINF:0,########## MÜZiK KANALLARI ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625947
 #EXTINF:0,TRT Muzik TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8715
@@ -5428,9 +5577,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8070
 #EXTINF:0,Number 1 TV Turk HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12829
-#EXTINF:0,########## FiLM KANALLARI ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625948
 #EXTINF:0,bein Movies Stars HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8707
@@ -5758,9 +5904,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/627021
 #EXTINF:0,Medine Canli TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/627022
-#EXTINF:0,########## YEREL KANALLAR ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625951
 #EXTINF:0,Fox Life FHD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6875
@@ -5944,12 +6087,11 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679669
 #EXTINF:0,Canli TV TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685723
+
+
+
+
 #EXTINF:0,########## Romania ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5334
-#EXTINF:0,------- Main & Regional -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683287
 #EXTINF:0,TVR1 RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5294
@@ -6061,9 +6203,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13673
 #EXTINF:0,Alfa & Omega TV RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14170
-#EXTINF:0,------- Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683289
 #EXTINF:0,DIGI Sport 1 FHD RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/149962
@@ -6121,9 +6260,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5314
 #EXTINF:0,Look Sport Plus RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5313
-#EXTINF:0,------- Movies & Series -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683288
 #EXTINF:0,HBO HD RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5278
@@ -6181,9 +6317,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14985
 #EXTINF:0,Happy Channel RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5315
-#EXTINF:0,------- Documentary -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683290
 #EXTINF:0,Discovery Channel RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/35706
@@ -6262,9 +6395,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5316
 #EXTINF:0,Food Network RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14989
-#EXTINF:0,------- Children -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683291
 #EXTINF:0,Cartoon Network RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12071
@@ -6283,9 +6413,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5305
 #EXTINF:0,Jim Jam RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5284
-#EXTINF:0,------- Music -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683292
 #EXTINF:0,Music Channel RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5285
@@ -6316,12 +6443,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5300
 #EXTINF:0,Hora TV RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12061
+
+
+
 #EXTINF:0,########## Portugal ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7543
-#EXTINF:0,------- Main & Regional -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682899
 #EXTINF:0,RTP 1 FHD PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7459
@@ -6400,9 +6525,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12535
 #EXTINF:0,Localvisao HD PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12529
-#EXTINF:0,------- News -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682908
 #EXTINF:0,Euronews PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8788
@@ -6421,9 +6543,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12525
 #EXTINF:0,TVE 24H PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12512
-#EXTINF:0,------- Religious -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682909
 #EXTINF:0,Cancao Nova PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7527
@@ -6433,9 +6552,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8797
 #EXTINF:0,Santuario Fatima PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8972
-#EXTINF:0,------- Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682900
 #EXTINF:0,BTV 1 FHD PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12521
@@ -6541,9 +6657,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/670849
 #EXTINF:0,PFC PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7500
-#EXTINF:0,------- Movies & Series -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682903
 #EXTINF:0,AXN FHD PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7538
@@ -6622,9 +6735,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7525
 #EXTINF:0,ZAP VIVA HD PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667814
-#EXTINF:0,------- Documentary -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682901
 #EXTINF:0,Discovery Channel HD PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7523
@@ -6679,9 +6789,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12528
 #EXTINF:0,Blaze PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7540
-#EXTINF:0,------- Entertainment -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682905
 #EXTINF:0,E! Entertainment PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8790
@@ -6709,9 +6816,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7453
 #EXTINF:0,Cacavision PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7531
-#EXTINF:0,------- Children -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682902
 #EXTINF:0,Baby TV PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7535
@@ -6745,9 +6849,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7541
 #EXTINF:0,Panda Biggs PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8805
-#EXTINF:0,------- Music -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682906
 #EXTINF:0,MTV PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7505
@@ -6769,12 +6870,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12505
 #EXTINF:0,iConcerts HD PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12502
+
+
+
+
+
 #EXTINF:0,########## Netherlands ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5166
-#EXTINF:0,------- Main & Regional -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683256
 #EXTINF:0,NPO 1 HD NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13128
@@ -6895,9 +6996,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11390
 #EXTINF:0,Family7 NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11422
-#EXTINF:0,------- Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683257
 #EXTINF:0,Ziggo Sport NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11387
@@ -6976,9 +7074,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11443
 #EXTINF:0,Extreme Sports NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11442
-#EXTINF:0,------- Movies & Series -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683258
 #EXTINF:0,Film 1 Premiere FHD NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6490
@@ -7045,9 +7140,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5105
 #EXTINF:0,ONS NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11407
-#EXTINF:0,------- Documentary -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683259
 #EXTINF:0,Discovery Channel NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5155
@@ -7108,9 +7200,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13113
 #EXTINF:0,TLC NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5107
-#EXTINF:0,------- Children -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683260
 #EXTINF:0,Baby TV NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5163
@@ -7141,9 +7230,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11406
 #EXTINF:0,Jim Jam NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11432
-#EXTINF:0,------- Music -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683261
 #EXTINF:0,MTV NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5103
@@ -7183,129 +7269,14 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11420
 #EXTINF:0,DJazz TV NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11423
-#EXTINF:0,########## KURD ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7738
-#EXTINF:0,NRT HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7723
-#EXTINF:0,Zagros TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7728
-#EXTINF:0,Ronahi TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7725
-#EXTINF:0,Med Music KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7722
-#EXTINF:0,BMC HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12470
-#EXTINF:0,Falcon HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12463
-#EXTINF:0,Cira KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20726
-#EXTINF:0,Gali Kurdistan KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20719
-#EXTINF:0,Kurdistan TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20718
-#EXTINF:0,I Movies KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20716
-#EXTINF:0,Ishtar TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20715
-#EXTINF:0,K24 KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20712
-#EXTINF:0,Kanal4 KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20710
-#EXTINF:0,Korek TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20707
-#EXTINF:0,Kurdistan24 KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20705
-#EXTINF:0,Kurdmax Kurmanci KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20703
-#EXTINF:0,Kurdsat KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20699
-#EXTINF:0,Kurdsat News HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20698
-#EXTINF:0,Med Muzik KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20697
-#EXTINF:0,Medya Haber KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20696
-#EXTINF:0,Mody Kids KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20695
-#EXTINF:0,NRT1 HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20694
-#EXTINF:0,NRT 2 KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20693
-#EXTINF:0,NRT 2 HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20692
-#EXTINF:0,Payam TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20686
-#EXTINF:0,Rojava KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20684
-#EXTINF:0,Ronahi HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20683
-#EXTINF:0,Rudaw HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20682
-#EXTINF:0,Rudaw KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20681
-#EXTINF:0,Sahar Kurdish KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20680
-#EXTINF:0,Sterk KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20678
-#EXTINF:0,Vin HD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20676
-#EXTINF:0,Waar TV FHD KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20675
-#EXTINF:0,Suroyo TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626436
-#EXTINF:0,Suryoyo Sat KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/627070
-#EXTINF:0,TRT Kurd KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672045
-#EXTINF:0,Afarin TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672046
-#EXTINF:0,Tishk TV KRD
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672670
+
+
+
+
+
+
+
 #EXTINF:0,########## Germany ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6267
-#EXTINF:0,------- Main & Regional -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678832
 #EXTINF:0,Das Erste HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13166
@@ -7507,9 +7478,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13130
 #EXTINF:0,Event - Covid Info FHD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679845
-#EXTINF:0,------- Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678834
+
 #EXTINF:0,Sky Sports News FHD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13555
@@ -7735,9 +7704,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679855
 #EXTINF:0,DEL Sport 6 HD [Match Time] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679856
-#EXTINF:0,------- Movies & Series -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678836
+
 #EXTINF:0,Sky Action HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5093
@@ -8152,9 +8119,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6221
 #EXTINF:0,Tagesschau 24 HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6163
-#EXTINF:0,------- Children -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678923
+
+
 #EXTINF:0,Super RTL FHD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13554
@@ -8251,12 +8217,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14200
 #EXTINF:0,Deutsches Musik Fernsehen DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13165
+
+
+
 #EXTINF:0,########## France ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5718
-#EXTINF:0,------- Main & Regional -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678944
 #EXTINF:0,TF1 FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12857
@@ -8359,9 +8323,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5620
 #EXTINF:0,TFX FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50868
-#EXTINF:0,------- Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678947
 #EXTINF:0,RMC Sport News HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624939
@@ -8470,9 +8431,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16918
 #EXTINF:0,Golf+ FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12948
-#EXTINF:0,------- News -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678951
 #EXTINF:0,France 24 News FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8630
@@ -8506,9 +8464,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5706
 #EXTINF:0,LCi HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5656
-#EXTINF:0,------- Entertainment -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678952
 #EXTINF:0,E! Entertainment FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5678
@@ -8539,9 +8494,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8615
 #EXTINF:0,NT1 FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5639
-#EXTINF:0,------- Movies & Series -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678945
 #EXTINF:0,TF1 Series Films FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5662
@@ -8743,9 +8695,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5629
 #EXTINF:0,Crime District HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16923
-#EXTINF:0,------- Documentary -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678946
 #EXTINF:0,Discovery FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12997
@@ -8854,9 +8803,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5617
 #EXTINF:0,Voyage TV HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5602
-#EXTINF:0,------- Children -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678948
 #EXTINF:0,Boing HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5705
@@ -8941,9 +8887,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8616
 #EXTINF:0,J-One HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625364
-#EXTINF:0,------- Music -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678949
 #EXTINF:0,MTV FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7942
@@ -9004,12 +8947,11 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5601
 #EXTINF:0,Djazz TV FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7939
+
+
+
+
 #EXTINF:0,########## Arabic ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5918
-#EXTINF:0,------- beIN Network -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685747
 #EXTINF:0,beIN Sports 1 HD ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15018
@@ -9109,9 +9051,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8819
 #EXTINF:0,beIN Gourmet HD ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14839
-#EXTINF:0,------- OSN Arabic -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685771
 #EXTINF:0,BBC Arabic HD ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14865
@@ -9619,9 +9558,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5815
 #EXTINF:0,Qatar Today ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14687
+
+
+
+
+
 #EXTINF:0,------- Egypt -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685751
 #EXTINF:0,Nile Cinema AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5861
@@ -9811,9 +9753,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/32383
 #EXTINF:0,ME Sat ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/32384
+
+
+
 #EXTINF:0,------- Kuwait -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685753
 #EXTINF:0,KTV Al Arabi HD KW
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14776
@@ -10000,9 +9943,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/680852
 #EXTINF:0,Zitouna ALG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8956
+
+
+
+
+
 #EXTINF:0,------- Lebanon -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685757
 #EXTINF:0,LBC LB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5777
@@ -10072,9 +10018,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8945
 #EXTINF:0,Tele Liban LB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5779
+
+
+
 #EXTINF:0,------- Yemen -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685758
 #EXTINF:0,Yemen Shabab YE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14717
@@ -10096,9 +10043,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14697
 #EXTINF:0,Belqees TV YE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14720
+
+
+
 #EXTINF:0,------- Iraq -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685759
 #EXTINF:0,Lana TV ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/648284
@@ -10162,9 +10110,13 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14779
 #EXTINF:0,Iraqia Sport ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14741
+
+
+
+
+
+
 #EXTINF:0,------- Syria -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685760
 #EXTINF:0,Syria TV SY
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5803
@@ -10213,9 +10165,9 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624944
 #EXTINF:0,Zweina Baladna JO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14871
+
+
 #EXTINF:0,------- Bahrain -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685762
 #EXTINF:0,Bahrain TV BH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8910
@@ -10243,9 +10195,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14836
 #EXTINF:0,B4U Plus AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5768
+
+
+
+
+
 #EXTINF:0,------- Libya -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685764
 #EXTINF:0,Libya TV LY
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14857
@@ -10279,6 +10234,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14856
 #EXTINF:0,Tanasuh TV LY
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8952
+
+
 #EXTINF:0,------- Oman -------
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685768
@@ -10288,69 +10245,20 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5811
 #EXTINF:0,Oman TV HD OM
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5812
-#EXTINF:0,------- Palestine -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685769
-#EXTINF:0,Palestine Live PS
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14761
-#EXTINF:0,Palestine Today PS
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14762
+
+
+
+
 #EXTINF:0,------- Cyprus -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685770
 #EXTINF:0,Sat 7 ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/22698
 #EXTINF:0,Sat 7 Kids ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/22697
-#EXTINF:0,------- General Arabic -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685772
-#EXTINF:0,Belody Aflam ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14795
-#EXTINF:0,Star Cinema 1 AR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5825
-#EXTINF:0,Star Cinema 2 AR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5824
-#EXTINF:0,Art Cinema AR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5839
-#EXTINF:0,Darbka Cinema ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14808
-#EXTINF:0,M Cinema TV ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14793
-#EXTINF:0,Time Cinema AR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5843
-#EXTINF:0,Show Cinema AR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5844
-#EXTINF:0,ON Drama ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14803
-#EXTINF:0,ON E HD ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14802
-#EXTINF:0,ON Live HD ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14804
-#EXTINF:0,ON Sport ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21080
-#EXTINF:0,Al Horreya ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626611
-#EXTINF:0,Al Quran ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14813
+
+
+
 #EXTINF:0,CNA ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14767
@@ -10375,27 +10283,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8926
 #EXTINF:0,Karbala TV ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14738
-#EXTINF:0,MBA Masr 2 AR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5867
-#EXTINF:0,Mazazik TV ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14731
-#EXTINF:0,Miracle TV ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14688
-#EXTINF:0,Mosalsalat Tube ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14805
-#EXTINF:0,SeeVii Al Aoula HD AR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8827
-#EXTINF:0,Ten AR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8953
-#EXTINF:0,Thaqalayn TV ARB
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14711
 #EXTINF:0,Toktok Aflam ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14811
@@ -10414,12 +10301,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/638200
 #EXTINF:0,AlSirat TV AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/641397
+
+
+
 #EXTINF:0,########## Albania ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4754
-#EXTINF:0,------- Main & Regional -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684829
 #EXTINF:0,RTSH 1 HD AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4849
@@ -10585,9 +10470,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4833
 #EXTINF:0,Star Shkodra AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9998
-#EXTINF:0,------- News -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684830
 #EXTINF:0,ABC News AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4854
@@ -10624,9 +10506,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10002
 #EXTINF:0,7 HD AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10081
-#EXTINF:0,------- Religious -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684831
 #EXTINF:0,Peace TV Shqip AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10060
@@ -10636,9 +10515,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10051
 #EXTINF:0,Peace TV AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9932
-#EXTINF:0,------- Sports -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684832
 #EXTINF:0,Supersport 1 HD AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4729
@@ -10681,9 +10557,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15174
 #EXTINF:0,RTSH Sport HD AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14017
-#EXTINF:0,------- Movies & Series -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684836
 #EXTINF:0,Film Aksion FHD AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4806
@@ -10855,9 +10728,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683178
 #EXTINF:0,TDC HD AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683179
-#EXTINF:0,------- Documentary -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684837
 #EXTINF:0,Explorer Shkence HD AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4815
@@ -10897,9 +10767,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10101
 #EXTINF:0,X Natyra AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655146
-#EXTINF:0,------- Children -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684838
 #EXTINF:0,Baby TV AL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4821
@@ -11053,9 +10920,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5192
 #EXTINF:0,TV3 Norge NO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5197
+
+
+
 #EXTINF:0,########## Norway ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5201
 #EXTINF:0,YLE 2 FI
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6413
@@ -11155,9 +11023,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7078
 #EXTINF:0,C More First HD SE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7081
+
+
+
+
+
 #EXTINF:0,########## Sweden ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7143
 #EXTINF:0,BBC Brit FHD SE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7419
@@ -11227,9 +11098,9 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7812
 #EXTINF:0,DR 1 FHD DK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7815
+
+
 #EXTINF:0,########## Denmark ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7817
 #EXTINF:0,TV7 FI
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7828
@@ -11554,9 +11425,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6663
 #EXTINF:0,5 Star UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6665
+
+
+
+
+
 #EXTINF:0,########## United Kingdom ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6668
 #EXTINF:0,Rok TV UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7827
@@ -11818,9 +11692,13 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50970
 #EXTINF:0,BX1 BE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13418
+
+
+
+
+
+
 #EXTINF:0,########## United States ##########
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6365
 #EXTINF:0,A&E FHD US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4960
