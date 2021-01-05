@@ -7,7 +7,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399)
 
-#EXTINF:0 group-title="Switzerland"
+#EXTINF:-1 tvg-id="#" tvg-name="#" group-title="Swic"
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7910
 #EXTINF:0,SRF 1 HD CH
