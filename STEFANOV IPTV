@@ -48,7 +48,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685984
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674053
 #EXTINF:0 group-title="Macedonia", MNET HD
-#EXTVLCOPT:network-caching=1000
 https://live.mnet.mk/
 #EXTINF:0 group-title="Macedonia",KTV Kavadarci MK
 #EXTVLCOPT:network-caching=1000
