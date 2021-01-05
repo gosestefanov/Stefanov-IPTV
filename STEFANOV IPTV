@@ -83,7 +83,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7899
 #EXTINF:0,TVO HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7900
-#EXTINF:0,########## Makedonija ##########
+#EXTINF:0 group-title="Macedonia"
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7898
 #EXTINF:0,------- Nacionalni & lokalni -------
