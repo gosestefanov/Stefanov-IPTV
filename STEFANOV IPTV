@@ -2,92 +2,6 @@
 #EXTINF:-1 group-title="Macedonia",MRT 1 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
-
-#EXTM3U
-#EXTINF:-1 tvg-id="#" tvg-name="#" group-title="Swic"
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7910
-#EXTINF:0,SRF 1 HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7909
-#EXTINF:0,SRF 2 HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8995
-#EXTINF:0,SRF zwei HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7908
-#EXTINF:0,SRF Info HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7901
-#EXTINF:0,RTS Un HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8983
-#EXTINF:0,RTS Deux CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8984
-#EXTINF:0,RSI LA 1 HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8986
-#EXTINF:0,RSI LA 2 HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8985
-#EXTINF:0,3+ HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672295
-#EXTINF:0,4+ HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672294
-#EXTINF:0,5+ HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8992
-#EXTINF:0,Blue Sport 1 FHD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7903
-#EXTINF:0,Blue Sport 2 FHD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677923
-#EXTINF:0,Blue Action FHD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668093
-#EXTINF:0,Blue Prime FHD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9005
-#EXTINF:0,Blue Emotion FHD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668094
-#EXTINF:0,Blue Zoom HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655141
-#EXTINF:0,Tele Zurih CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7907
-#EXTINF:0,Tele M1 HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8990
-#EXTINF:0,Blue Top HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8989
-#EXTINF:0,TeleBielingue HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8998
-#EXTINF:0,Discovery Channel FHD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8996
-#EXTINF:0,TV24 HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8988
-#EXTINF:0,TVM3 CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7899
-#EXTINF:0,TVO HD CH
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7900
-#EXTINF:0 group-title="Macedonia"
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7898
-#EXTINF:0,------- Nacionalni & lokalni -------
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683224
 #EXTINF:0,MRT 1 HD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
@@ -250,6 +164,92 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685987
 #EXTINF:0,Viasat Explore MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657483
+
+#EXTM3U
+#EXTINF:-1 tvg-id="#" tvg-name="#" group-title="Swic"
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7910
+#EXTINF:0,SRF 1 HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7909
+#EXTINF:0,SRF 2 HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8995
+#EXTINF:0,SRF zwei HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7908
+#EXTINF:0,SRF Info HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7901
+#EXTINF:0,RTS Un HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8983
+#EXTINF:0,RTS Deux CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8984
+#EXTINF:0,RSI LA 1 HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8986
+#EXTINF:0,RSI LA 2 HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8985
+#EXTINF:0,3+ HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672295
+#EXTINF:0,4+ HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672294
+#EXTINF:0,5+ HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8992
+#EXTINF:0,Blue Sport 1 FHD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7903
+#EXTINF:0,Blue Sport 2 FHD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677923
+#EXTINF:0,Blue Action FHD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668093
+#EXTINF:0,Blue Prime FHD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9005
+#EXTINF:0,Blue Emotion FHD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668094
+#EXTINF:0,Blue Zoom HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655141
+#EXTINF:0,Tele Zurih CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7907
+#EXTINF:0,Tele M1 HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8990
+#EXTINF:0,Blue Top HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8989
+#EXTINF:0,TeleBielingue HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8998
+#EXTINF:0,Discovery Channel FHD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8996
+#EXTINF:0,TV24 HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8988
+#EXTINF:0,TVM3 CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7899
+#EXTINF:0,TVO HD CH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7900
+#EXTINF:0 group-title="Macedonia"
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7898
+#EXTINF:0,------- Nacionalni & lokalni -------
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683224
 #EXTINF:0,########## Malaysia ##########
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7775
