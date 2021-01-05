@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 group-title="Macedonia" tvg-logo="https://en.wikipedia.org/wiki/MRT_1#/media/File:MRT_1_new_logo.png",MRT 1  
+#EXTINF:0 group-title="Macedonia" tvg-logo="https://en.wikipedia.org/wiki/MRT_1#/media/File:MRT_1_new_logo.png",MRT 1  tvg-logo="https://en.wikipedia.org/wiki/MRT_1#/media/File:MRT_1_new_logo.png"
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 #EXTINF:0 group-title="Macedonia",MRT 1 HD MK
