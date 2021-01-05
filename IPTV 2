@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/MRT_1#/media/File:MRT_1_new_logo.png" group-title="Macedonia" ,MRT 1 tvg-logo="https://en.wikipedia.org/wiki/MRT_1#/media/File:MRT_1_new_logo.png" 
+#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/MRT_1#/media/File:MRT_1_new_logo.png" group-title="Macedonia" ,MRT 1
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 #EXTINF:0 group-title="Macedonia",MRT 1 HD MK
@@ -70,6 +70,21 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685998
 #EXTINF:0 group-title="Macedonia",Sutel TV MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12402
+#EXTINF:0 group-title="Macedonia",Animal Planet MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674055
+#EXTINF:0 group-title="Macedonia",Travel Channel MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657484
+#EXTINF:0 group-title="Macedonia",Viasat History MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657482
+#EXTINF:0 group-title="Macedonia",TLC MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685987
+#EXTINF:0 group-title="Macedonia",Viasat Explore MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657483
 #EXTINF:0 group-title="Macedonia",HBO FHD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657495
@@ -142,25 +157,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685983
 #EXTINF:0 group-title="Macedonia",INTV Avstralija HD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674106
-#EXTINF:0 group-title="Macedonia",Animal Planet MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674055
-#EXTINF:0 group-title="Macedonia",Travel Channel MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657484
-#EXTINF:0 group-title="Macedonia",Viasat History MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657482
-#EXTINF:0 group-title="Macedonia",TLC MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685987
-#EXTINF:0 group-title="Macedonia",Viasat Explore MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657483
-
-#EXTINF:0 group-title="Switzerland"
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7910
 #EXTINF:0 group-title="Switzerland",SRF 1 HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7909
