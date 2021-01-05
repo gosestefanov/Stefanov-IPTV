@@ -2,57 +2,58 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Macedonia" ,MRT 1
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
-#EXTINF:0 group-title="Macedonia",MRT 1 HD MK
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Macedonia",MRT 1 HD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
-#EXTINF:0 group-title="Macedonia",MRT 2 FHD MK
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png" group-title="Macedonia",MRT 2 FHD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7885
-#EXTINF:0 group-title="Macedonia",MRT 3 MK
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/MRT_3_2020.png" group-title="Macedonia",MRT 3 MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7876
-#EXTINF:0 group-title="Macedonia",Sitel FHD MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12404
-#EXTINF:0 group-title="Macedonia",Sitel MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12403
-#EXTINF:0 group-title="Macedonia",Kanal 5 MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7892
-#EXTINF:0 group-title="Macedonia",Alfa TV MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7897
-#EXTINF:0 group-title="Macedonia",Telma MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7879
-#EXTINF:0 group-title="Macedonia",Tera Bitola HD MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657505
-#EXTINF:0 group-title="Macedonia",24 Vesti MK
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12401
-#EXTINF:0 group-title="Macedonia",Sobraniski Kanal MK
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/MRT_Sobraniski_Kanal_new_logo.png" group-title="Macedonia",Sobraniski Kanal MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657506
-#EXTINF:0 group-title="Macedonia",TV+ Kumanovo MK
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/1200px-Logo_of_Sitel.svg.png" group-title="Macedonia",Sitel FHD MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12404
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_of_Sitel.svg/1200px-Logo_of_Sitel.svg.png" group-title="Macedonia",Sitel MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12403
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/K/kanal-5-tv-logo-9E80ACB113-seeklogo.com.gif" group-title="Macedonia",Kanal 5 MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7892
+#EXTINF:0 tvg-logo="https://ohridskoleto.com.mk/wp-content/uploads/2017/04/alfa-tv.png" group-title="Macedonia",Alfa TV MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7897
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Telma_logo_%28official%29.png" group-title="Macedonia",Telma MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7879
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tera-tv-logo.png" group-title="Macedonia",Tera Bitola HD MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657505
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/24-vesti.png/revision/latest/scale-to-width-down/340?cb=20181212111648" group-title="Macedonia",24 Vesti MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12401
+#EXTINF:0 tvg-logo="https://tvplus.mk/wp-content/wptouch-data/uploads/cropped-SLIDE-III-0-00-00-24-copy1.png" group-title="Macedonia",TV+ Kumanovo MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7878
-#EXTINF:0 group-title="Macedonia",MTM MK
+#EXTINF:0 tvg-logo="https://mtm.mk/images/novi_sliki2/mtm_prva_skopska_logo.png" group-title="Macedonia",MTM MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657502
-#EXTINF:0 group-title="Macedonia",TV Svet MK
+#EXTINF:0 tvg-logo="https://www.predavatel.com/mk/3/stip_images/tvsvet.gif" group-title="Macedonia",TV Svet MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685984
-#EXTINF:0 group-title="Macedonia",Iris TV Stip MK
+#EXTINF:0 tvg-logo="https://www.predavatel.com/mk/3/stip_images/stp_tviris_2.gif" group-title="Macedonia",Iris TV Stip MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674053
-#EXTINF:0 group-title="Macedonia", MNET HD
-https://live.mnet.mk/
-#EXTINF:0 group-title="Macedonia",KTV Kavadarci MK
+#EXTINF:0 tvg-logo="https://mnet.mk/wp-content/uploads/2020/10/logo-mnet-golemo-svetla-1024x154.png" group-title="Macedonia", MNET HD
+#EXTVLCOPT:network-caching=1000
+https://giganet.mk/hls/mnet.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJwYgRxZH8-75T8NWwk0XhnHW5hKr_CqeC1UIBrT=s900-c-k-c0xffffffff-no-rj-mo" group-title="Macedonia",KTV Kavadarci MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685985
-#EXTINF:0 group-title="Macedonia",TV Sonce MK
+#EXTINF:0 tvg-logo="https://pivofestival.mk/images/pokroviteli/Logo-TV-SONCE-transparentno.png" group-title="Macedonia",TV Sonce MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7875
 #EXTINF:0 group-title="Macedonia",Macedonian Documentary MK
@@ -164,7 +165,7 @@ http://super1.ideaiptv.com:2052/bandook/3243243/28101
 #EXTINF:0 group-title="EX-YU",DIVA
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28102
-#EXTINF:0,EX-YU: Fox
+#EXTINF:0 group-title="EX-YU",Fox
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28103
 #EXTINF:0,EX-YU: CineStar Premiere 2
