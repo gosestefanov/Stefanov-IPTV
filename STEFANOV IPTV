@@ -1,3 +1,9 @@
+#EXTINF:0,MRT 1 HD MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
+#EXTINF:0,MRT 2 FHD MK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7885
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/MRT_3_2020.png" group-title="Macedonia",MRT 3 MK
 #EXTVLCOPT:network-caching=1000
 http://play.mrt.com.mk/5cef8aed-c71d-4884-a673-577398270201
