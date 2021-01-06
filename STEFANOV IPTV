@@ -13,7 +13,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7885
 http://play.mrt.com.mk/5cef8aed-c71d-4884-a673-577398270201
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",MRT 5 MK
 #EXTVLCOPT:network-caching=1000
-blob:http://play.mrt.com.mk/d61b1896-9e2f-4ffd-9039-8dd154877e23
+http://play.mrt.com.mk/d61b1896-9e2f-4ffd-9039-8dd154877e23
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/MRT_Sobraniski_Kanal_new_logo.png" group-title="Macedonia",Sobraniski Kanal MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657506
@@ -50,8 +50,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685984
 #EXTINF:0 tvg-logo="https://www.predavatel.com/mk/3/stip_images/stp_tviris_2.gif" group-title="Macedonia",Iris TV Stip MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674053
-#EXTINF:0 tvg-logo="https://mnet.mk/wp-content/uploads/2020/10/logo-mnet-golemo-svetla-1024x154.png" group-title="Macedonia", MNET HD
-https://giganet.mk/hls/mnet.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJwYgRxZH8-75T8NWwk0XhnHW5hKr_CqeC1UIBrT=s900-c-k-c0xffffffff-no-rj-mo" group-title="Macedonia",KTV Kavadarci MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685985
