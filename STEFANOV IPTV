@@ -1,7 +1,8 @@
-#EXTINF:0,MRT 1 HD MK
+#EXTM3U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Macedonia",MRT 1 HD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
-#EXTINF:0,MRT 2 FHD MK
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png" group-title="Macedonia",MRT 2 FHD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7885
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/MRT_3_2020.png" group-title="Macedonia",MRT 3 MK
@@ -1192,6 +1193,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53156
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7231
 
 
+
+
 ########## Latino ##########
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6765
@@ -1932,7 +1935,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5392
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682920
 
 
-#EXTINF:0 tvg-logo="x" group-title="x",########## Russian ##########
+
+########## Russian ##########
 #EXTINF:0 tvg-logo="x" group-title="x",1 FHD RU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/36886
@@ -2158,7 +2162,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/665918
 #EXTINF:0 tvg-logo="x" group-title="x",KHL TV FHD RU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/686546
-#EXTINF:0 tvg-logo="x" group-title="x",########## Pakistan ##########
+
+
+
+########## Pakistan ##########
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5214
 #EXTINF:0 tvg-logo="x" group-title="x",92 News PK
@@ -2603,171 +2610,170 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/686545
 
 
 
-
-#EXTINF:0 tvg-logo="x" group-title="x",########## Brazil ##########
-#EXTINF:0 tvg-logo="x" group-title="x",Animal Planet HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Animal Planet HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13643
-#EXTINF:0 tvg-logo="x" group-title="x",Arte1 HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Arte1 HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6147
-#EXTINF:0 tvg-logo="x" group-title="x",Band Sports HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Band Sports HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13638
-#EXTINF:0 tvg-logo="x" group-title="x",Band Sports BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Band Sports BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6143
-#EXTINF:0 tvg-logo="x" group-title="x",Canal Brasil BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Canal Brasil BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13637
-#EXTINF:0 tvg-logo="x" group-title="x",Canal Sony HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Canal Sony HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13636
-#EXTINF:0 tvg-logo="x" group-title="x",Cinemax HD VIP BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Cinemax HD VIP BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16520
-#EXTINF:0 tvg-logo="x" group-title="x",Discovery Channel HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Discovery Channel HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16517
-#EXTINF:0 tvg-logo="x" group-title="x",Discovery Civilization BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Discovery Civilization BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16516
-#EXTINF:0 tvg-logo="x" group-title="x",Discovery Home & Health BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Discovery Home & Health BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6117
-#EXTINF:0 tvg-logo="x" group-title="x",Discovery Science HD VIP BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Discovery Science HD VIP BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16512
-#EXTINF:0 tvg-logo="x" group-title="x",Discovery Turbo HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Discovery Turbo HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16510
-#EXTINF:0 tvg-logo="x" group-title="x",ESPN Brasil HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",ESPN Brasil HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13633
-#EXTINF:0 tvg-logo="x" group-title="x",ESPN HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",ESPN HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13634
-#EXTINF:0 tvg-logo="x" group-title="x",ESPN BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",ESPN BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16502
-#EXTINF:0 tvg-logo="x" group-title="x",Fish TV BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Fish TV BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6128
-#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports 2 HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Fox Sports 2 HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16498
-#EXTINF:0 tvg-logo="x" group-title="x",GNT HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",GNT HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10233
-#EXTINF:0 tvg-logo="x" group-title="x",Globo SP HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Globo SP HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679746
-#EXTINF:0 tvg-logo="x" group-title="x",Globo News HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Globo News HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16494
-#EXTINF:0 tvg-logo="x" group-title="x",Globo RJ HD VIP BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Globo RJ HD VIP BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16489
-#EXTINF:0 tvg-logo="x" group-title="x",Globo TV BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Globo TV BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6125
-#EXTINF:0 tvg-logo="x" group-title="x",Gloob HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Gloob HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16485
-#EXTINF:0 tvg-logo="x" group-title="x",H2 HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",H2 HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16483
-#EXTINF:0 tvg-logo="x" group-title="x",HBO 2 HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",HBO 2 HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6121
-#EXTINF:0 tvg-logo="x" group-title="x",HBO Family HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",HBO Family HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13622
-#EXTINF:0 tvg-logo="x" group-title="x",HBO Signature HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",HBO Signature HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6119
-#EXTINF:0 tvg-logo="x" group-title="x",History Channel HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",History Channel HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16481
-#EXTINF:0 tvg-logo="x" group-title="x",Multishow TV HD VIP BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Multishow TV HD VIP BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6116
-#EXTINF:0 tvg-logo="x" group-title="x",Nick Jr HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Nick Jr HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16467
-#EXTINF:0 tvg-logo="x" group-title="x",Premiere Clubes HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Premiere Clubes HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13610
-#EXTINF:0 tvg-logo="x" group-title="x",Record News BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Record News BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13608
-#EXTINF:0 tvg-logo="x" group-title="x",Record SP HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Record SP HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16461
-#EXTINF:0 tvg-logo="x" group-title="x",Rede TV HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Rede TV HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6110
-#EXTINF:0 tvg-logo="x" group-title="x",SporTV BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",SporTV BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13602
 #EXTINF:0 tvg-logo="x" group-title="x",SporTV 2 HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13604
-#EXTINF:0 tvg-logo="x" group-title="x",SyFy BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",SyFy BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16457
-#EXTINF:0 tvg-logo="x" group-title="x",TCM BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",TCM BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6105
-#EXTINF:0 tvg-logo="x" group-title="x",TNT HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",TNT HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13592
-#EXTINF:0 tvg-logo="x" group-title="x",TV Diario BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",TV Diario BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6091
-#EXTINF:0 tvg-logo="x" group-title="x",Record TV BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Record TV BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13609
-#EXTINF:0 tvg-logo="x" group-title="x",Tooncast BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Tooncast BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6096
-#EXTINF:0 tvg-logo="x" group-title="x",Warner Channel HD BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Warner Channel HD BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16449
-#EXTINF:0 tvg-logo="x" group-title="x",Warner BR
+#EXTINF:0 tvg-logo="x" group-title="Brazil",Warner BR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6088
 
 
-#EXTINF:0 tvg-logo="x" group-title="x",########## India ##########
-#EXTINF:0 tvg-logo="x" group-title="x",9XM IN
+
+
+#EXTINF:0 tvg-logo="x" group-title="India",9XM IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4009
-#EXTINF:0 tvg-logo="x" group-title="x",& Pictures IN
+#EXTINF:0 tvg-logo="x" group-title="India",& Pictures IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10622
-#EXTINF:0 tvg-logo="x" group-title="x",9X Tashan IN
+#EXTINF:0 tvg-logo="x" group-title="India",9X Tashan IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10617
-#EXTINF:0 tvg-logo="x" group-title="x",NDTV 24x7 HD IN
+#EXTINF:0 tvg-logo="x" group-title="India",NDTV 24x7 HD IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4008
-#EXTINF:0 tvg-logo="x" group-title="x",ABP News IN
+#EXTINF:0 tvg-logo="x" group-title="India",ABP News IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3998
-#EXTINF:0 tvg-logo="x" group-title="x",Asianet IN
+#EXTINF:0 tvg-logo="x" group-title="India",Asianet IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5575
-#EXTINF:0 tvg-logo="x" group-title="x",Asianet Movies IN
+#EXTINF:0 tvg-logo="x" group-title="India",Asianet Movies IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5577
-#EXTINF:0 tvg-logo="x" group-title="x",Asianet News IN
+#EXTINF:0 tvg-logo="x" group-title="India",Asianet News IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5578
-#EXTINF:0 tvg-logo="x" group-title="x",Asianet Plus IN
+#EXTINF:0 tvg-logo="x" group-title="India",Asianet Plus IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5576
-#EXTINF:0 tvg-logo="x" group-title="x",Anand IN
+#EXTINF:0 tvg-logo="x" group-title="India",Anand IN
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10595
 #EXTINF:0 tvg-logo="x" group-title="x",Aaj Tak News IN
@@ -3881,1055 +3887,1055 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682522
 
 
 
-#EXTINF:0 tvg-logo="x" group-title="x",########## XXX ##########
-#EXTINF:0 tvg-logo="x" group-title="x",Penthouse Gold FHD (18+) US
+
+#EXTINF:0 tvg-logo="x" group-title="XXX",Penthouse Gold FHD (18+) US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13863
-#EXTINF:0 tvg-logo="x" group-title="x",Penthouse Quickies FHD (18+) US
+#EXTINF:0 tvg-logo="x" group-title="XXX",Penthouse Quickies FHD (18+) US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13862
-#EXTINF:0 tvg-logo="x" group-title="x",Vivid RED FHD (18+) US
+#EXTINF:0 tvg-logo="x" group-title="XXX",Vivid RED FHD (18+) US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13864
-#EXTINF:0 tvg-logo="x" group-title="x",Redlight FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Redlight FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674061
-#EXTINF:0 tvg-logo="x" group-title="x",Dorcel FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Dorcel FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5529
-#EXTINF:0 tvg-logo="x" group-title="x",EroX (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",EroX (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13867
-#EXTINF:0 tvg-logo="x" group-title="x",EroXXX FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",EroXXX FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13866
-#EXTINF:0 tvg-logo="x" group-title="x",Dusk (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Dusk (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19678
-#EXTINF:0 tvg-logo="x" group-title="x",Hustler FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Hustler FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674060
-#EXTINF:0 tvg-logo="x" group-title="x",Hustler (18+) US
+#EXTINF:0 tvg-logo="x" group-title="XXX",Hustler (18+) US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5525
-#EXTINF:0 tvg-logo="x" group-title="x",Maiden van Holland (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Maiden van Holland (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674125
-#EXTINF:0 tvg-logo="x" group-title="x",Balkan Erotik (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Balkan Erotik (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13404
-#EXTINF:0 tvg-logo="x" group-title="x",Brazzers (18+) US
+#EXTINF:0 tvg-logo="x" group-title="XXX",Brazzers (18+) US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13403
-#EXTINF:0 tvg-logo="x" group-title="x",PlayBoy TV HD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",PlayBoy TV HD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19674
-#EXTINF:0 tvg-logo="x" group-title="x",Play Boy CA (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Play Boy CA (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/17717
-#EXTINF:0 tvg-logo="x" group-title="x",PlayBoy TV (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",PlayBoy TV (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19673
-#EXTINF:0 tvg-logo="x" group-title="x",Playboy (18+) ES
+#EXTINF:0 tvg-logo="x" group-title="XXX",Playboy (18+) ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5512
-#EXTINF:0 tvg-logo="x" group-title="x",Pink' o TV (18+) IT
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink' o TV (18+) IT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16348
-#EXTINF:0 tvg-logo="x" group-title="x",Pink Erotic 1 (18+) EX-YU
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink Erotic 1 (18+) EX-YU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5521
-#EXTINF:0 tvg-logo="x" group-title="x",Pink Erotic 2 (18+) EX-YU
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink Erotic 2 (18+) EX-YU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5520
-#EXTINF:0 tvg-logo="x" group-title="x",Pink Erotic 3 (18+) EX-YU
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink Erotic 3 (18+) EX-YU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5519
-#EXTINF:0 tvg-logo="x" group-title="x",Pink Erotic 4 (18+) EX-YU
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink Erotic 4 (18+) EX-YU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5518
-#EXTINF:0 tvg-logo="x" group-title="x",Pink Erotic 5 (18+) EX-YU
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink Erotic 5 (18+) EX-YU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5517
-#EXTINF:0 tvg-logo="x" group-title="x",Pink Erotic 6 (18+) EX-YU
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink Erotic 6 (18+) EX-YU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5516
-#EXTINF:0 tvg-logo="x" group-title="x",Pink Erotic 7 FHD (18+) EX-YU
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink Erotic 7 FHD (18+) EX-YU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5515
-#EXTINF:0 tvg-logo="x" group-title="x",Pink Erotic 8 (18+) EX-YU
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pink Erotic 8 (18+) EX-YU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5514
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 1 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 1 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5494
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 2 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 2 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5493
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 3 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 3 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5492
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 4 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 4 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5491
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 5 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 5 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5490
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 6 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 6 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5489
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 7 HD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 7 HD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5488
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 8 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 8 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5487
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 9 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 9 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5486
-#EXTINF:0 tvg-logo="x" group-title="x",Porn 10 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Porn 10 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5485
-#EXTINF:0 tvg-logo="x" group-title="x",Primafila Hot Club 2 HD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Primafila Hot Club 2 HD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5509
-#EXTINF:0 tvg-logo="x" group-title="x",Primafila Hot Club 3 HD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Primafila Hot Club 3 HD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5508
-#EXTINF:0 tvg-logo="x" group-title="x",Primafila Hot Club 4 FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Primafila Hot Club 4 FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5507
-#EXTINF:0 tvg-logo="x" group-title="x",Primafila Hot Club 6 FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Primafila Hot Club 6 FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5505
-#EXTINF:0 tvg-logo="x" group-title="x",Primafila Hot Club 7 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Primafila Hot Club 7 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5504
-#EXTINF:0 tvg-logo="x" group-title="x",Primafila Hot Club 8 FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Primafila Hot Club 8 FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5503
-#EXTINF:0 tvg-logo="x" group-title="x",Primafila Hot Club 9 FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Primafila Hot Club 9 FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5502
-#EXTINF:0 tvg-logo="x" group-title="x",Blacked FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Blacked FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5495
-#EXTINF:0 tvg-logo="x" group-title="x",Bunga Bunga (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Bunga Bunga (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5532
-#EXTINF:0 tvg-logo="x" group-title="x",ButGo (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",ButGo (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19684
-#EXTINF:0 tvg-logo="x" group-title="x",Candy (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Candy (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19683
-#EXTINF:0 tvg-logo="x" group-title="x",Centoxcento TV (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Centoxcento TV (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19682
-#EXTINF:0 tvg-logo="x" group-title="x",Cento Cento HD (18+) IT
+#EXTINF:0 tvg-logo="x" group-title="XXX",Cento Cento HD (18+) IT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5531
-#EXTINF:0 tvg-logo="x" group-title="x",Daughter Swap (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Daughter Swap (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19680
-#EXTINF:0 tvg-logo="x" group-title="x",Dusk DeLuxe (18+) NL
+#EXTINF:0 tvg-logo="x" group-title="XXX",Dusk DeLuxe (18+) NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5528
-#EXTINF:0 tvg-logo="x" group-title="x",Desire FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Desire FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5530
-#EXTINF:0 tvg-logo="x" group-title="x",Hot HD (18+) PT
+#EXTINF:0 tvg-logo="x" group-title="XXX",Hot HD (18+) PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13397
-#EXTINF:0 tvg-logo="x" group-title="x",Hot (18+) PT
+#EXTINF:0 tvg-logo="x" group-title="XXX",Hot (18+) PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5526
-#EXTINF:0 tvg-logo="x" group-title="x",Dorcel (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Dorcel (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19679
-#EXTINF:0 tvg-logo="x" group-title="x",Leo TV (18+) CZ
+#EXTINF:0 tvg-logo="x" group-title="XXX",Leo TV (18+) CZ
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16350
-#EXTINF:0 tvg-logo="x" group-title="x",Jasmin TV (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Jasmin TV (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16002
-#EXTINF:0 tvg-logo="x" group-title="x",Passie (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Passie (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13402
-#EXTINF:0 tvg-logo="x" group-title="x",O La La FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",O La La FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5523
-#EXTINF:0 tvg-logo="x" group-title="x",Moms Teach (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Moms Teach (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13401
-#EXTINF:0 tvg-logo="x" group-title="x",Meiden van Holland Hard (18+) NL
+#EXTINF:0 tvg-logo="x" group-title="XXX",Meiden van Holland Hard (18+) NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5524
-#EXTINF:0 tvg-logo="x" group-title="x",Penthouse FHD (18+) US
+#EXTINF:0 tvg-logo="x" group-title="XXX",Penthouse FHD (18+) US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5522
-#EXTINF:0 tvg-logo="x" group-title="x",Platinum FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Platinum FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5513
-#EXTINF:0 tvg-logo="x" group-title="x",Private (18+) NL
+#EXTINF:0 tvg-logo="x" group-title="XXX",Private (18+) NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5501
-#EXTINF:0 tvg-logo="x" group-title="x",Reality Kings (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Reality Kings (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13399
-#EXTINF:0 tvg-logo="x" group-title="x",Reality Sex (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Reality Sex (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19670
-#EXTINF:0 tvg-logo="x" group-title="x",Red Light (18+) NL
+#EXTINF:0 tvg-logo="x" group-title="XXX",Red Light (18+) NL
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5500
-#EXTINF:0 tvg-logo="x" group-title="x",SCT HD (18+) IT
+#EXTINF:0 tvg-logo="x" group-title="XXX",SCT HD (18+) IT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5498
-#EXTINF:0 tvg-logo="x" group-title="x",Sext Senso (18+) IT
+#EXTINF:0 tvg-logo="x" group-title="XXX",Sext Senso (18+) IT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5497
-#EXTINF:0 tvg-logo="x" group-title="x",Sirina 1 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Sirina 1 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5536
-#EXTINF:0 tvg-logo="x" group-title="x",Sirina 2 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Sirina 2 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5535
-#EXTINF:0 tvg-logo="x" group-title="x",Sirina 3 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Sirina 3 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5534
-#EXTINF:0 tvg-logo="x" group-title="x",Pleasure (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Pleasure (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19672
-#EXTINF:0 tvg-logo="x" group-title="x",TGirls (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",TGirls (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13398
-#EXTINF:0 tvg-logo="x" group-title="x",Venus (18+) AR
+#EXTINF:0 tvg-logo="x" group-title="XXX",Venus (18+) AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5496
-#EXTINF:0 tvg-logo="x" group-title="x",SuperOne HD (18+) HU
+#EXTINF:0 tvg-logo="x" group-title="XXX",SuperOne HD (18+) HU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16347
-#EXTINF:0 tvg-logo="x" group-title="x",Hot Club (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Hot Club (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19687
-#EXTINF:0 tvg-logo="x" group-title="x",Babes 2 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Babes 2 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19701
-#EXTINF:0 tvg-logo="x" group-title="x",Babes 17 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Babes 17 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/19703
-#EXTINF:0 tvg-logo="x" group-title="x",Nubiles Casting (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Nubiles Casting (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13400
-#EXTINF:0 tvg-logo="x" group-title="x",Erox (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Erox (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23177
-#EXTINF:0 tvg-logo="x" group-title="x",XXX Adult (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",XXX Adult (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23178
-#EXTINF:0 tvg-logo="x" group-title="x",Vivid TV CA-FR (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Vivid TV CA-FR (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53706
-#EXTINF:0 tvg-logo="x" group-title="x",ALBA XXX 1
+#EXTINF:0 tvg-logo="x" group-title="XXX",ALBA XXX 1
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666419
-#EXTINF:0 tvg-logo="x" group-title="x",ALBA XXX 2
+#EXTINF:0 tvg-logo="x" group-title="XXX",ALBA XXX 2
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666420
-#EXTINF:0 tvg-logo="x" group-title="x",ALBA XXX 3
+#EXTINF:0 tvg-logo="x" group-title="XXX",ALBA XXX 3
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666421
-#EXTINF:0 tvg-logo="x" group-title="x",ALBA XXX 4
+#EXTINF:0 tvg-logo="x" group-title="XXX",ALBA XXX 4
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666422
-#EXTINF:0 tvg-logo="x" group-title="x",ALBA XXX 5
+#EXTINF:0 tvg-logo="x" group-title="XXX",ALBA XXX 5
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666423
-#EXTINF:0 tvg-logo="x" group-title="x",ALBA XXX 6
+#EXTINF:0 tvg-logo="x" group-title="XXX",ALBA XXX 6
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666424
-#EXTINF:0 tvg-logo="x" group-title="x",Fake Agent HD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Fake Agent HD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666425
-#EXTINF:0 tvg-logo="x" group-title="x",Fake Agent 3 HD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Fake Agent 3 HD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666427
-#EXTINF:0 tvg-logo="x" group-title="x",Fake Taxi HD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Fake Taxi HD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666428
-#EXTINF:0 tvg-logo="x" group-title="x",Fake Taxi Female FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Fake Taxi Female FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666429
-#EXTINF:0 tvg-logo="x" group-title="x",Sext6senso (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Sext6senso (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666430
-#EXTINF:0 tvg-logo="x" group-title="x",Free-XTV (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Free-XTV (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/666431
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Focus On Your Body 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Focus On Your Body 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664634.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Bathing With Her Boyfriend 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Bathing With Her Boyfriend 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664635.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Balls To Her Wall 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Balls To Her Wall 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664636.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Gingervitis 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Gingervitis 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664637.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Horny For The Holidays - Part 1 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Horny For The Holidays - Part 1 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664638.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Getting Good Vibes 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Getting Good Vibes 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664639.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Helicockter Mom 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Helicockter Mom 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664640.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Load Size - Jordi's Max 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Load Size - Jordi's Max 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664641.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lessons From the Champ 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lessons From the Champ 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664642.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Nailed Through The Wall 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Nailed Through The Wall 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664643.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Nurse's Orders 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Nurse's Orders 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664644.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Night Walk 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Night Walk 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664645.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | New To Nudism 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | New To Nudism 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664646.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Serviced In Her Room 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Serviced In Her Room 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664647.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Sweet And Sour 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Sweet And Sour 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664648.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Sex Tape Mistake 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Sex Tape Mistake 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664649.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Tennis Balls Deep 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Tennis Balls Deep 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664650.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | A Fair Deal 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | A Fair Deal 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664877.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | We'll Do That For You 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | We'll Do That For You 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/664878.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | A Very Neighborly Affair 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | A Very Neighborly Affair 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665112.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Bingo Bang 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Bingo Bang 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665113.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Backyard Banging 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Backyard Banging 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665114.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Behind Her Husbands Back 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Behind Her Husbands Back 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665115.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Black Out 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Black Out 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665116.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Blindfolded Bride 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Blindfolded Bride 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665117.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Cherie Peeping 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Cherie Peeping 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665118.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Desert Desires 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Desert Desires 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665119.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Day With A Pornstar - Angela White 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Day With A Pornstar - Angela White 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665120.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Eating Out for Thanksgiving 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Eating Out for Thanksgiving 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665121.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | En Suite Sneak 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | En Suite Sneak 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665122.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Eyes On The Prize 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Eyes On The Prize 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665123.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Fighting Foot Domination 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Fighting Foot Domination 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665124.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Here For My Boyfriend's Stuff 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Here For My Boyfriend's Stuff 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665125.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | I'm A Giver And A Taker 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | I'm A Giver And A Taker 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665126.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Horny For The Holidays - Part 2 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Horny For The Holidays - Part 2 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665127.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | I'm Your Biggest Fan 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | I'm Your Biggest Fan 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665128.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Just Like That -  Nurse 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Just Like That -  Nurse 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665129.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Laying Pipe with the Bros 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Laying Pipe with the Bros 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665130.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lingerie Rubdown 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lingerie Rubdown 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665131.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Ladies -  Twerk It Out! 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Ladies -  Twerk It Out! 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665132.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | More Than Just A Pretty Face 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | More Than Just A Pretty Face 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665133.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Pornstar Prey 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Pornstar Prey 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665134.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Peen-ata Pounding 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Peen-ata Pounding 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665135.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Sexercise 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Sexercise 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665136.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | The Temp's Crush 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | The Temp's Crush 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665137.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Trippy Hula Hippie 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Trippy Hula Hippie 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665138.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Upgrading My Room 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Upgrading My Room 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665139.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Marsha Raises the Bar FIRST ANAL 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Marsha Raises the Bar FIRST ANAL 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665328.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Milf And Cookies 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Milf And Cookies 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665329.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Mom's Got A Meeting 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Mom's Got A Meeting 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665330.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Blindfolded Best Friend 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Blindfolded Best Friend 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665331.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Naughty Date With The Neighbor 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Naughty Date With The Neighbor 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665334.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Mom's Helping Hands 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Mom's Helping Hands 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665335.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Neon Rain 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Neon Rain 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665336.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Office 4-Play - Latina Edition 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Office 4-Play - Latina Edition 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665337.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Poolside Fucking 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Poolside Fucking 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665338.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Out Like A Light 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Out Like A Light 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665339.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Put Your Body Into It 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Put Your Body Into It 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665340.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Roadie Head 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Roadie Head 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665341.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Stepsibling Rivalry 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Stepsibling Rivalry 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665342.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Shower Curtain Cock 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Shower Curtain Cock 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665343.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Size Stamina 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Size Stamina 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665344.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Something For My Husband 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Something For My Husband 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665345.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | The Voyeur Next Door - Part 3 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | The Voyeur Next Door - Part 3 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665346.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | The Voyeur Next Door - Part 4 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | The Voyeur Next Door - Part 4 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665347.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Two Can Play At Paige's Game 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Two Can Play At Paige's Game 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665348.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | A Housewife Scorned - Brandi Love & Valentina Nappi
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | A Housewife Scorned - Brandi Love & Valentina Nappi
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665885.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | AllOver30 19-12-30 Julia North Mature 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | AllOver30 19-12-30 Julia North Mature 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665886.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | All Over 30 - Ella Knox & Mindi Mink 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | All Over 30 - Ella Knox & Mindi Mink 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665887.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | AuntJudys 19-11-06 Natie Lotions Up And Masturbates In Red Lingerie
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | AuntJudys 19-11-06 Natie Lotions Up And Masturbates In Red Lingerie
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665888.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Chanel Preston & Amarna Miller 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Chanel Preston & Amarna Miller 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665889.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | CzechEscortGirls 19-11-18 Ali Bordeaux 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | CzechEscortGirls 19-11-18 Ali Bordeaux 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665890.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | CzechEscortGirls 19-12-02 Cayla Lyons 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | CzechEscortGirls 19-12-02 Cayla Lyons 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665891.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Dominant Games - Vanna Bardot, Sovereign Syre & Sabina Rouge 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Dominant Games - Vanna Bardot, Sovereign Syre & Sabina Rouge 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665892.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | FinishHim 17-08-10 Bella Ink 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | FinishHim 17-08-10 Bella Ink 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665893.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Fistful of Curves - Dido Angel & Angel Wicky 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Fistful of Curves - Dido Angel & Angel Wicky 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665894.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Girl on Girl on Girl - Sovereign Syre, Penny Pax & Tia Kai 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Girl on Girl on Girl - Sovereign Syre, Penny Pax & Tia Kai 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665895.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Here She Comes - August Ames & Kendra James 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Here She Comes - August Ames & Kendra James 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665896.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbian Defloration - Arina Sunflower & Amy. Ledenez
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbian Defloration - Arina Sunflower & Amy. Ledenez
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665897.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | I'm Allergic to Clothes - India Summer & Gianna Dior 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | I'm Allergic to Clothes - India Summer & Gianna Dior 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665898.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | JacquieEtMichelTV 19-12-30 Angela 20 Years 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | JacquieEtMichelTV 19-12-30 Angela 20 Years 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665899.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Love Moms - Ilsa (50) & Lara 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Love Moms - Ilsa (50) & Lara 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665900.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | OldYoungLesbianLove 19-11-18 Franny And Missy Luv Stylish And Dirty 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | OldYoungLesbianLove 19-11-18 Franny And Missy Luv Stylish And Dirty 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665901.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Pregnant Vicky - Me & My Bisexual Friend Going At It
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Pregnant Vicky - Me & My Bisexual Friend Going At It
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665902.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Part of Being a Woman - Karla Kush & Mona Wales 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Part of Being a Woman - Karla Kush & Mona Wales 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665903.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Samantha Ryan & Siri 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Samantha Ryan & Siri 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665904.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Tied up Naked - Jessa Rhodes & Ryan Ryans 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Tied up Naked - Jessa Rhodes & Ryan Ryans 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665905.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | The Daisy Chain - Alexis Fawx, Mindi Mink, Alex Grey & Jenna Foxx 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | The Daisy Chain - Alexis Fawx, Mindi Mink, Alex Grey & Jenna Foxx 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665906.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | WankItNow 19-12-07 Natalia Forrest Trying On Lingerie
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | WankItNow 19-12-07 Natalia Forrest Trying On Lingerie
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665907.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | WankItNow 19-12-06 Selene Second Thoughts 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | WankItNow 19-12-06 Selene Second Thoughts 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665908.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | vanessa 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | vanessa 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/665909.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Assential Oil 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Assential Oil 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666022.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | A Woman Scorned 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | A Woman Scorned 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666023.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Bianca's Bangin' Bod 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Bianca's Bangin' Bod 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666024.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Bronzing In The Batter's Booth 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Bronzing In The Batter's Booth 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666025.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Brook's Erotic Escape 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Brook's Erotic Escape 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666026.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Classically Trained To Fuck 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Classically Trained To Fuck 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666027.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Countdown To Cock 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Countdown To Cock 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666028.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Cock And Frisk 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Cock And Frisk 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666029.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Cum-Shot Caller 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Cum-Shot Caller 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666030.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Disciplining The Squirt 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Disciplining The Squirt 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666031.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Horny For The Holidays - Part 3 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Horny For The Holidays - Part 3 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666032.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Mutual Massage 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Mutual Massage 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666033.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Professional Pussy Protection 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Professional Pussy Protection 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666034.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Teachers' Lounge 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Teachers' Lounge 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666035.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Tied Up 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Tied Up 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666036.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Working Late 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Working Late 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/666037.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | An Eyeful Of Emma 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | An Eyeful Of Emma 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667323.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | An Extra Buck 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | An Extra Buck 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667324.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Boss For A Day 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Boss For A Day 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667325.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Boss Me Around 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Boss Me Around 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667326.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Bubble Butt Bride 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Bubble Butt Bride 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667327.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Late Date 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Late Date 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667328.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Getting Even And Getting Laid 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Getting Even And Getting Laid 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667329.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Making Madison Wet 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Making Madison Wet 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667330.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Library Lechery 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Library Lechery 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667331.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Mom's Got New Boobs 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Mom's Got New Boobs 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667332.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Girlfriend's Girlfriend 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Girlfriend's Girlfriend 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667333.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Obedience And Orgasms 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Obedience And Orgasms 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667334.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Robocock 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Robocock 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667335.mp4
 #EXTINF:0 tvg-logo="x" group-title="x",Adult | Snippity Snip 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667336.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Trading Up Times Two 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Trading Up Times Two 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667337.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Stepmom's Got Game 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Stepmom's Got Game 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667338.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Anilos 20-01-15 Madison Missina Lesbian 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Anilos 20-01-15 Madison Missina Lesbian 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667356.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | ClubSeventeen 20-01-16 Angel Wicky And  Mina B Lesbian 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | ClubSeventeen 20-01-16 Angel Wicky And  Mina B Lesbian 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667357.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | BangBus 20-01-15 Binky Beaz 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | BangBus 20-01-15 Binky Beaz 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667358.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | FakeTaxi - Amber Deen 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | FakeTaxi - Amber Deen 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667359.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | FamilyScrew 19-12-25 Nasty Present For Youngest Son 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | FamilyScrew 19-12-25 Nasty Present For Youngest Son 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667360.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | FamilyScrew 20-01-15 Brothers Hires Old And Young Strippers 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | FamilyScrew 20-01-15 Brothers Hires Old And Young Strippers 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667361.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-04-23 Nicolette Shea Chronic Humping Syndrome 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-04-23 Nicolette Shea Chronic Humping Syndrome 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667362.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea - Sarah Sultry And Soyivania 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea - Sarah Sultry And Soyivania 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667363.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LezCuties 20-01-15 Lingerie Models Magic 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LezCuties 20-01-15 Lingerie Models Magic 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667364.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-04-30 Ryan Keely Periscoping Peeper 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-04-30 Ryan Keely Periscoping Peeper 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667365.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-05-07 London River Getting Off On Her Day Off 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-05-07 London River Getting Off On Her Day Off 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667366.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-05-14 Sybil Stallone A Persistent Little Humper 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-05-14 Sybil Stallone A Persistent Little Humper 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667367.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-05-28 Lexi Luna Pounding The Prankster 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-05-28 Lexi Luna Pounding The Prankster 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667368.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-06-18 Dee Williams Road Rage Load 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-06-18 Dee Williams Road Rage Load 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667369.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-05-21 Eva Notty Busty Study Buddy 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-05-21 Eva Notty Busty Study Buddy 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667370.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-07-09 Aubrey Black Massage Switcheroo 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-07-09 Aubrey Black Massage Switcheroo 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667371.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-08-06 Brittany Andrews Pounding The Panty Thief 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-08-06 Brittany Andrews Pounding The Panty Thief 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667372.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-08-20 Missy Martinez Hide And Peep 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-08-20 Missy Martinez Hide And Peep 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667373.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-10-01 Dana Dearmond The Great MILF Hunt 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-10-01 Dana Dearmond The Great MILF Hunt 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667374.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-12-03 Alena Croft Rickys Gang 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-12-03 Alena Croft Rickys Gang 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667375.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 19-09-17 Katie Morgan And Brandi Love Puzzled Over Pussy 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 19-09-17 Katie Morgan And Brandi Love Puzzled Over Pussy 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667376.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LilHumpers 20-01-07 Ryan Keely Window Washed 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LilHumpers 20-01-07 Ryan Keely Window Washed 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667377.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | PornMegaLoad 20-01-15 Ruby Oconnor Shower Time 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | PornMegaLoad 20-01-15 Ruby Oconnor Shower Time 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667378.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | PublicAgent 20-01-16 Lenina Crowne 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | PublicAgent 20-01-16 Lenina Crowne 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667379.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Publicpickups -  Gina Ferocious Sneaky Street Fuck 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Publicpickups -  Gina Ferocious Sneaky Street Fuck 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667380.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Anilos 16-08-05 Alex Black Pretty In Pink 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Anilos 16-08-05 Alex Black Pretty In Pink 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667550.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Desperate Amateurs Caramel 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Desperate Amateurs Caramel 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667551.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Finish Him Jenni Noble 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Finish Him Jenni Noble 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667552.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Heavy On Hotties 20-01-17 Nadya Basinger Cougar Town 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Heavy On Hotties 20-01-17 Nadya Basinger Cougar Town 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667553.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Alecia Fox And Leanne Lace 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Alecia Fox And Leanne Lace 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667554.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Jade Presley And Honour May 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Jade Presley And Honour May 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667555.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Lady Bug And Madison Mcqueen 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Lady Bug And Madison Mcqueen 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667556.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Marilyn Sugar And Tiny Tina 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Marilyn Sugar And Tiny Tina 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667557.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Sarah Sultry And Soyivania 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Sarah Sultry And Soyivania 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667558.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Monsters Of Cock Khloe Kapri 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Monsters Of Cock Khloe Kapri 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667559.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Pervy Family Paisley Pepper 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Pervy Family Paisley Pepper 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667560.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Share My BF Aria Kai And Indica Flower Not My Legs Challenge 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Share My BF Aria Kai And Indica Flower Not My Legs Challenge 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667561.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Pervy Family Tucker Stevens 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Pervy Family Tucker Stevens 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667562.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Trip For Fuck 19-05-14 Jaa 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Trip For Fuck 19-05-14 Jaa 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667563.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | TripForFuck - Gift 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | TripForFuck - Gift 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667564.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Balled-Room Dancing 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Balled-Room Dancing 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667764.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | A Slippery Situation 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | A Slippery Situation 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667765.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | An Extra Buck 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | An Extra Buck 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667766.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Big Tits Save Lives 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Big Tits Save Lives 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667767.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Assential Oil 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Assential Oil 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667768.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | An Eyeful Of Emma 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | An Eyeful Of Emma 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667769.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Five-Star Dick 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Five-Star Dick 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667770.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Day With A Pornstar - Gina Valentina 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Day With A Pornstar - Gina Valentina 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667771.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Don't Toy With My Ass 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Don't Toy With My Ass 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667772.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Fill My Quota 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Fill My Quota 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667773.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Game Over -  Man 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Game Over -  Man 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667774.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | A Woman Scorned 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | A Woman Scorned 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667775.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Fucking Her Friend's Mom 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Fucking Her Friend's Mom 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667776.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Boss For A Day 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Boss For A Day 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667777.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Bronzing In The Batter's Booth 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Bronzing In The Batter's Booth 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667778.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Boss Me Around 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Boss Me Around 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667779.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Brook's Erotic Escape 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Brook's Erotic Escape 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667780.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Bubble Butt Bride 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Bubble Butt Bride 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667781.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Cock And Frisk 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Cock And Frisk 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667782.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Countdown To Cock 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Countdown To Cock 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667783.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Classically Trained To Fuck 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Classically Trained To Fuck 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667784.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Cum-Shot Caller 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Cum-Shot Caller 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667785.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Getting Even And Getting Laid 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Getting Even And Getting Laid 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667786.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Covet Thy Neighbor's Ass 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Covet Thy Neighbor's Ass 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667838.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Crawling To Another Cock 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Crawling To Another Cock 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667839.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Getting The Shot 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Getting The Shot 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667840.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Feet First 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Feet First 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667841.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Honour's All In 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Honour's All In 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667842.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Horny For The Holidays - Part 3 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Horny For The Holidays - Part 3 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667843.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Late Date 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Late Date 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667844.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | In The Pink 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | In The Pink 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667845.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Library Lechery 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Library Lechery 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667846.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Making Madison Wet 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Making Madison Wet 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667847.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Mom's Got New Boobs! 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Mom's Got New Boobs! 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667848.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Girlfriend's Girlfriend 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Girlfriend's Girlfriend 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667849.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Mutual Massage 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Mutual Massage 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667850.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Overly Anal Secretary 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Overly Anal Secretary 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667851.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Nothing Like A Good Book 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Nothing Like A Good Book 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667852.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Not Too Sick For Dick 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Not Too Sick For Dick 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667853.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Obedience And Orgasms 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Obedience And Orgasms 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667854.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Our Not-So-Timid Tenant 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Our Not-So-Timid Tenant 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667855.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Pussy Unlocked 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Pussy Unlocked 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667856.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Read My Lips 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Read My Lips 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667857.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Sibling Rivalry 4 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Sibling Rivalry 4 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667858.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Sex With The Therapist 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Sex With The Therapist 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667859.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Snippity Snip 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Snippity Snip 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667860.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Stretching Skylar Out 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Stretching Skylar Out 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667861.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Stepmom's Got Game 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Stepmom's Got Game 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667862.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Tats -  Tits And Ass 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Tats -  Tits And Ass 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667863.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | The Dommes Next Door - Double Dommed 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | The Dommes Next Door - Double Dommed 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667864.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Teachers' Lounge 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Teachers' Lounge 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667865.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Stuck In The Copier 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Stuck In The Copier 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667866.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Slutty Surveillance 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Slutty Surveillance 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667867.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Track And Feel Her 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Track And Feel Her 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667868.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Trading Up Times Two 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Trading Up Times Two 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667869.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Working Her Ass Off 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Working Her Ass Off 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667870.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | The Trip - Part 1 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | The Trip - Part 1 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667871.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Tied Up 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Tied Up 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667872.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Working Late 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Working Late 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667873.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Yes -  In Front of My Salad 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Yes -  In Front of My Salad 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667874.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Robocock 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Robocock 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/667875.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | AllOver30 20-01-06 Sofie Marie 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | AllOver30 20-01-06 Sofie Marie 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668060.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | AllOver30 20-01-25 Jessie G 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | AllOver30 20-01-25 Jessie G 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668061.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | AllOver30 20-01-07 Tiffany Cane Ladies In Action 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | AllOver30 20-01-07 Tiffany Cane Ladies In Action 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668062.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | AmateriPremium 17-07-06 Foxy Sanie 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | AmateriPremium 17-07-06 Foxy Sanie 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668063.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Anilos 16-08-05 Alex Black Pretty In Pink 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Anilos 16-08-05 Alex Black Pretty In Pink 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668064.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Anilos 20-01-10 Lira Kissy Lip Gloss Love 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Anilos 20-01-10 Lira Kissy Lip Gloss Love 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668065.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | BlowBangGirls 19-11-08 Tee 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | BlowBangGirls 19-11-08 Tee 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668066.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | BlowBangGirls 19-11-15 Melody 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | BlowBangGirls 19-11-15 Melody 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668067.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | BlowBangGirls 19-11-28 Girls Want BBC OnBlack Friday 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | BlowBangGirls 19-11-28 Girls Want BBC OnBlack Friday 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668068.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | EuroGirlsOnGirls 20-01-27 Katy Rose And Inna Innaki Lesbian Dildo Fucking 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | EuroGirlsOnGirls 20-01-27 Katy Rose And Inna Innaki Lesbian Dildo Fucking 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668069.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | FamilyScrew 19-12-25 Nasty Present For Youngest Son 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | FamilyScrew 19-12-25 Nasty Present For Youngest Son 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668070.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | FamilyScrew 20-01-15 Brothers Hires Old And Young Strippers 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | FamilyScrew 20-01-15 Brothers Hires Old And Young Strippers 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668071.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | FinishHim Jenni Noble 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | FinishHim Jenni Noble 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668072.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | GrandMams 19-04-23 The Triangle Of Mature Love 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | GrandMams 19-04-23 The Triangle Of Mature Love 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668073.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | GrandMams 19-08-20 Amanda And Her Young Secret Lover 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | GrandMams 19-08-20 Amanda And Her Young Secret Lover 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668074.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | GrandMams 19-10-08 Young Gigolo Fucks Horny Granny 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | GrandMams 19-10-08 Young Gigolo Fucks Horny Granny 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668075.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | GrandMams 19-10-29 Three Old Lesbians Sharing Their Toys 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | GrandMams 19-10-29 Three Old Lesbians Sharing Their Toys 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668076.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | GrandMams 19-11-05 Mature Danny Visits A Secret Sex Club 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | GrandMams 19-11-05 Mature Danny Visits A Secret Sex Club 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668077.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Alecia Fox And Leanne Lace 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Alecia Fox And Leanne Lace 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668078.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Jade Presley And Honour May 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Jade Presley And Honour May 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668079.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Lady Bug And Madison Mcqueen 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Lady Bug And Madison Mcqueen 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668080.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Marilyn Sugar And Tiny Tina 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Marilyn Sugar And Tiny Tina 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668081.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea - Sarah Sultry And Soyivania 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea - Sarah Sultry And Soyivania 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668082.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Sarah Sultry And Soyivania 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Sarah Sultry And Soyivania 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668083.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | LezCuties 20-01-15 Lingerie Models Magic 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | LezCuties 20-01-15 Lingerie Models Magic 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668084.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | MagmaFilm 20-01-28 Dacada Mature Homemade Threesome 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | MagmaFilm 20-01-28 Dacada Mature Homemade Threesome 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668085.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | PornMegaLoad 20-01-15 Ruby Oconnor Shower Time 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | PornMegaLoad 20-01-15 Ruby Oconnor Shower Time 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668086.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | PublicAgent 20-01-28 Tori Cummings 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | PublicAgent 20-01-28 Tori Cummings 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668087.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Welivetogether  Karlee Grey And Abella Danger Take Them Off 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Welivetogether  Karlee Grey And Abella Danger Take Them Off 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668088.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | All Sex Casino 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | All Sex Casino 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668099.avi
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Grand Mams 19-04-23 The Triangle Of Mature Love 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Grand Mams 19-04-23 The Triangle Of Mature Love 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668100.mp4
 #EXTINF:0 tvg-logo="x" group-title="x",Adult | Casting AllaItaliana - Debby Love 01-06-17 
@@ -4938,151 +4944,151 @@ http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668101.mp4
 #EXTINF:0 tvg-logo="x" group-title="x",Adult | Grand Mams 19-08-20 Amanda And Her Young Secret Lover 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668102.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult |  ExposedCasting - Ukrainian and Italian Ivana Sugar & Silvia Dellai audition for threesome 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult |  ExposedCasting - Ukrainian and Italian Ivana Sugar & Silvia Dellai audition for threesome 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668103.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Grand Mams 19-10-08 Young Gigolo Fucks Horny Granny 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Grand Mams 19-10-08 Young Gigolo Fucks Horny Granny 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668104.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Incesti Italian 22 Non dirlo a papa 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Incesti Italian 22 Non dirlo a papa 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668105.avi
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Grand Mams 19-10-29 Three Old Lesbians Sharing Their Toys 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Grand Mams 19-10-29 Three Old Lesbians Sharing Their Toys 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668106.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Magma Film 20-01-28 Dacada Mature Homemade Threesome 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Magma Film 20-01-28 Dacada Mature Homemade Threesome 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668107.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Italian Muse Abella Danger And Valentina Nappi 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Italian Muse Abella Danger And Valentina Nappi 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668108.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Pervy Family Paisley Pepper 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Pervy Family Paisley Pepper 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668109.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | My Pervy Family Tucker Stevens 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | My Pervy Family Tucker Stevens 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668110.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Public Agent 20-01-28 Tori Cummings 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Public Agent 20-01-28 Tori Cummings 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668111.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Storia di un vero Incesto all italiana 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Storia di un vero Incesto all italiana 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668112.avi
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Alecia Fox And Leanne Lace 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Alecia Fox And Leanne Lace 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668113.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Jade Presley And Honour May 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Jade Presley And Honour May 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668114.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Lady Bug And Madison Mcqueen 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Lady Bug And Madison Mcqueen 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668115.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | All Over30 20-01-25 Jessie G 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | All Over30 20-01-25 Jessie G 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668116.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Marilyn Sugar And Tiny Tina 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Marilyn Sugar And Tiny Tina 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668117.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",Adult | Lesbea Sarah Sultry And Soyivania 
+#EXTINF:0 tvg-logo="x" group-title="XXX",Adult | Lesbea Sarah Sultry And Soyivania 
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/movie/live:cardak7_1/HSi2ulXczL/668118.mp4
-#EXTINF:0 tvg-logo="x" group-title="x",AST 1 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",AST 1 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672082
-#EXTINF:0 tvg-logo="x" group-title="x",AST 2 (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",AST 2 (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672084
-#EXTINF:0 tvg-logo="x" group-title="x",Lalkan Erotic (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Lalkan Erotic (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674059
-#EXTINF:0 tvg-logo="x" group-title="x",Legal Porno HD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Legal Porno HD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674063
-#EXTINF:0 tvg-logo="x" group-title="x",Max Lesbian Channel (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Lesbian Channel (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674065
-#EXTINF:0 tvg-logo="x" group-title="x",Max Big Dick (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Big Dick (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674066
-#EXTINF:0 tvg-logo="x" group-title="x",Max Big Tits (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Big Tits (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674067
-#EXTINF:0 tvg-logo="x" group-title="x",Max Blonde (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Blonde (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674068
-#EXTINF:0 tvg-logo="x" group-title="x",Max Blowjob (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Blowjob (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674069
-#EXTINF:0 tvg-logo="x" group-title="x",Max Brunette (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Brunette (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674070
-#EXTINF:0 tvg-logo="x" group-title="x",Max Compilation (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Compilation (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674071
-#EXTINF:0 tvg-logo="x" group-title="x",Max Fetish (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Fetish (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674072
-#EXTINF:0 tvg-logo="x" group-title="x",Max Hardcore (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Hardcore (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674074
-#EXTINF:0 tvg-logo="x" group-title="x",Max Interracial (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Interracial (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674075
-#EXTINF:0 tvg-logo="x" group-title="x",Max Milf (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Milf (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674076
-#EXTINF:0 tvg-logo="x" group-title="x",Max Russian (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Russian (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674077
-#EXTINF:0 tvg-logo="x" group-title="x",Max Live Cams (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Max Live Cams (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674078
-#EXTINF:0 tvg-logo="x" group-title="x",PassionXXX (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",PassionXXX (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674118
-#EXTINF:0 tvg-logo="x" group-title="x",xxx1 (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",xxx1 (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674119
-#EXTINF:0 tvg-logo="x" group-title="x",xxx2 (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",xxx2 (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674120
-#EXTINF:0 tvg-logo="x" group-title="x",Stars XXX (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Stars XXX (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674121
-#EXTINF:0 tvg-logo="x" group-title="x",Super One (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Super One (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674122
-#EXTINF:0 tvg-logo="x" group-title="x",Sexx1 (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Sexx1 (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674123
-#EXTINF:0 tvg-logo="x" group-title="x",Redlight HD (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Redlight HD (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674124
-#EXTINF:0 tvg-logo="x" group-title="x",Hot Club 1 (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Hot Club 1 (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674126
-#EXTINF:0 tvg-logo="x" group-title="x",Hot Club 2 (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Hot Club 2 (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674127
-#EXTINF:0 tvg-logo="x" group-title="x",Dreamporn (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Dreamporn (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674128
-#EXTINF:0 tvg-logo="x" group-title="x",EROXXX HD (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",EROXXX HD (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674129
-#EXTINF:0 tvg-logo="x" group-title="x",SeXtreme (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",SeXtreme (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674130
-#EXTINF:0 tvg-logo="x" group-title="x",Balkan Erotic (+18)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Balkan Erotic (+18)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674131
-#EXTINF:0 tvg-logo="x" group-title="x",Emanuelle FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Emanuelle FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/680091
-#EXTINF:0 tvg-logo="x" group-title="x",Nuart TV (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Nuart TV (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/680092
-#EXTINF:0 tvg-logo="x" group-title="x",Orgy Channel FHD (18+)
+#EXTINF:0 tvg-logo="x" group-title="XXX",Orgy Channel FHD (18+)
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/680239
 
@@ -11180,6 +11186,801 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20040
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20041
 #EXTINF:0 tvg-logo="x" group-title="x",C More Hits HD SE [Multi-Sub]
 #EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20044
+#EXTINF:0 tvg-logo="x" group-title="x",C More First FHD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20045
+#EXTINF:0 tvg-logo="x" group-title="x",C More Series FHD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20046
+#EXTINF:0 tvg-logo="x" group-title="x",C More Stars FHD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20047
+#EXTINF:0 tvg-logo="x" group-title="x",VSeries HD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20054
+#EXTINF:0 tvg-logo="x" group-title="x",Nick Jr DK [Multi-Audio]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20058
+#EXTINF:0 tvg-logo="x" group-title="x",C More Stars FHD DK [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20059
+#EXTINF:0 tvg-logo="x" group-title="x",C More Series FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20066
+#EXTINF:0 tvg-logo="x" group-title="x",Nat Geo Wild HD DK [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20067
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery World DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20068
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Science DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20069
+#EXTINF:0 tvg-logo="x" group-title="x",TV 7 News Heaven FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53575
+#EXTINF:0 tvg-logo="x" group-title="x",TV 7 EESTI FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53576
+#EXTINF:0 tvg-logo="x" group-title="x",TV 7 HD FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53577
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Channel FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53583
+#EXTINF:0 tvg-logo="x" group-title="x",Yle Teema Fem FHD FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53584
+#EXTINF:0 tvg-logo="x" group-title="x",C More Fotboll DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625237
+#EXTINF:0 tvg-logo="x" group-title="x",TV3+ HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/647429
+#EXTINF:0 tvg-logo="x" group-title="x",True Movies 1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6523
+#EXTINF:0 tvg-logo="x" group-title="x",Sony Movies Classic UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6524
+#EXTINF:0 tvg-logo="x" group-title="x",Sony Channel UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6525
+#EXTINF:0 tvg-logo="x" group-title="x",Travel Channel FHD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6526
+#EXTINF:0 tvg-logo="x" group-title="x",TG4 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6529
+#EXTINF:0 tvg-logo="x" group-title="x",Sky News UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6548
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Select HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6551
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Sci-Fi & Horror UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6552
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Premiere UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6553
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Family HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6555
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Action UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6558
+#EXTINF:0 tvg-logo="x" group-title="x",Real Lives UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6564
+#EXTINF:0 tvg-logo="x" group-title="x",Really UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6565
+#EXTINF:0 tvg-logo="x" group-title="x",Nicktoons UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6570
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic Wild UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6573
+#EXTINF:0 tvg-logo="x" group-title="x",More4 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6581
+#EXTINF:0 tvg-logo="x" group-title="x",London Live UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6583
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 1 [B] UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6587
+#EXTINF:0 tvg-logo="x" group-title="x",ITV Be UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6588
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 4 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6589
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 3 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6590
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6592
+#EXTINF:0 tvg-logo="x" group-title="x",H2 HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6596
+#EXTINF:0 tvg-logo="x" group-title="x",Gold UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6599
+#EXTINF:0 tvg-logo="x" group-title="x",Food Network UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6601
+#EXTINF:0 tvg-logo="x" group-title="x",Fox News HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6602
+#EXTINF:0 tvg-logo="x" group-title="x",Fox UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6604
+#EXTINF:0 tvg-logo="x" group-title="x",Five UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6606
+#EXTINF:0 tvg-logo="x" group-title="x",E4 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6613
+#EXTINF:0 tvg-logo="x" group-title="x",Crime & Investigation UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627
+#EXTINF:0 tvg-logo="x" group-title="x",CBS Reality UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6634
+#EXTINF:0 tvg-logo="x" group-title="x",CBS Justice UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6636
+#EXTINF:0 tvg-logo="x" group-title="x",Boomerang HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6651
+#EXTINF:0 tvg-logo="x" group-title="x",Bet UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6654
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Four HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6656
+#EXTINF:0 tvg-logo="x" group-title="x",Alibi HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6663
+#EXTINF:0 tvg-logo="x" group-title="x",5 Star UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6665
+
+
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",########## United Kingdom ##########
+#EXTINF:0 tvg-logo="x" group-title="x",Rok TV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7827
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Witness UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7912
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Sports Arena HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7926
+#EXTINF:0 tvg-logo="x" group-title="x",RTE Jr UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9501
+#EXTINF:0 tvg-logo="x" group-title="x",MTV 80s UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9509
+#EXTINF:0 tvg-logo="x" group-title="x",TCM HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9511
+#EXTINF:0 tvg-logo="x" group-title="x",S4C UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9512
+#EXTINF:0 tvg-logo="x" group-title="x",AMC HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9515
+#EXTINF:0 tvg-logo="x" group-title="x",E! UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9516
+#EXTINF:0 tvg-logo="x" group-title="x",Travel Channel HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9517
+#EXTINF:0 tvg-logo="x" group-title="x",Horse & Country UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9525
+#EXTINF:0 tvg-logo="x" group-title="x",Sony Movies UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9528
+#EXTINF:0 tvg-logo="x" group-title="x",ABC News UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9535
+#EXTINF:0 tvg-logo="x" group-title="x",Euronews UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9545
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Parliament UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9546
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Entertainment UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9548
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Two [Scotland] UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9551
+#EXTINF:0 tvg-logo="x" group-title="x",Challenge UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9556
+#EXTINF:0 tvg-logo="x" group-title="x",Capital TV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11459
+#EXTINF:0 tvg-logo="x" group-title="x",5 Star +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11461
+#EXTINF:0 tvg-logo="x" group-title="x",Viceland HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13219
+#EXTINF:0 tvg-logo="x" group-title="x",Alibi UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15693
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Select FHD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15711
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Sci-Fi & Horror HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15712
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Disney HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15717
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Action HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15720
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 2 +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15730
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 1 HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15734
+#EXTINF:0 tvg-logo="x" group-title="x",Fine Living UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15745
+#EXTINF:0 tvg-logo="x" group-title="x",Fight Network UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15747
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Home & Health +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15761
+#EXTINF:0 tvg-logo="x" group-title="x",Dave ja vu UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15764
+#EXTINF:0 tvg-logo="x" group-title="x",Crime & Investigation HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15766
+#EXTINF:0 tvg-logo="x" group-title="x",Box Nation VIP UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15783
+#EXTINF:0 tvg-logo="x" group-title="x",Box Hits UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15785
+#EXTINF:0 tvg-logo="x" group-title="x",Nick Jr HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15806
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic Wild HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15810
+#EXTINF:0 tvg-logo="x" group-title="x",More4 +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15821
+#EXTINF:0 tvg-logo="x" group-title="x",Magic UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15824
+#EXTINF:0 tvg-logo="x" group-title="x",Kiss UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15826
+#EXTINF:0 tvg-logo="x" group-title="x",Kerrang TV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15827
+#EXTINF:0 tvg-logo="x" group-title="x",ID +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15834
+#EXTINF:0 tvg-logo="x" group-title="x",Home&Health +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15835
+#EXTINF:0 tvg-logo="x" group-title="x",MTV 90s UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15845
+#EXTINF:0 tvg-logo="x" group-title="x",Quest Red UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15847
+#EXTINF:0 tvg-logo="x" group-title="x",Comedy Central Extra UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15855
+#EXTINF:0 tvg-logo="x" group-title="x",Comedy Extra UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15856
+#EXTINF:0 tvg-logo="x" group-title="x",Yesterday +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15859
+#EXTINF:0 tvg-logo="x" group-title="x",UTV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15866
+#EXTINF:0 tvg-logo="x" group-title="x",The Box UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15880
+#EXTINF:0 tvg-logo="x" group-title="x",Syfy HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15886
+#EXTINF:0 tvg-logo="x" group-title="x",Sony Sab UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15895
+#EXTINF:0 tvg-logo="x" group-title="x",Sky ONE HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15902
+#EXTINF:0 tvg-logo="x" group-title="x",Colors TV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16881
+#EXTINF:0 tvg-logo="x" group-title="x",########## Belgium ##########
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8193
+#EXTINF:0 tvg-logo="x" group-title="x",Canvas FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5932
+#EXTINF:0 tvg-logo="x" group-title="x",Club RTL FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5931
+#EXTINF:0 tvg-logo="x" group-title="x",La Deux BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5928
+#EXTINF:0 tvg-logo="x" group-title="x",La Trois BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5927
+#EXTINF:0 tvg-logo="x" group-title="x",La Une BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5929
+#EXTINF:0 tvg-logo="x" group-title="x",Plug RTL FHD LU
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5926
+#EXTINF:0 tvg-logo="x" group-title="x",RTL TVI HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5925
+#EXTINF:0 tvg-logo="x" group-title="x",Vier FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5922
+#EXTINF:0 tvg-logo="x" group-title="x",VIJF BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5921
+#EXTINF:0 tvg-logo="x" group-title="x",VTM 3 HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5920
+#EXTINF:0 tvg-logo="x" group-title="x",VTM FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5919
+#EXTINF:0 tvg-logo="x" group-title="x",Een FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5923
+#EXTINF:0 tvg-logo="x" group-title="x",AB3 BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5935
+#EXTINF:0 tvg-logo="x" group-title="x",AB Explore HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5934
+#EXTINF:0 tvg-logo="x" group-title="x",Eclips TV BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5933
+#EXTINF:0 tvg-logo="x" group-title="x",Serie HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5924
+#EXTINF:0 tvg-logo="x" group-title="x",Canal Zoom HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13424
+#EXTINF:0 tvg-logo="x" group-title="x",VTM 4 BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13426
+#EXTINF:0 tvg-logo="x" group-title="x",Ketnet BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13427
+#EXTINF:0 tvg-logo="x" group-title="x",LUX TV LU
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13414
+#EXTINF:0 tvg-logo="x" group-title="x",Notele HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13422
+#EXTINF:0 tvg-logo="x" group-title="x",NRJ Hits HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13421
+#EXTINF:0 tvg-logo="x" group-title="x",VTM 2 FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13428
+#EXTINF:0 tvg-logo="x" group-title="x",TVL BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13415
+#EXTINF:0 tvg-logo="x" group-title="x",Rijnmond BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13420
+#EXTINF:0 tvg-logo="x" group-title="x",VTM Kids BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13416
+#EXTINF:0 tvg-logo="x" group-title="x",VTM Nieuws BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13419
+#EXTINF:0 tvg-logo="x" group-title="x",ZES BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13413
+#EXTINF:0 tvg-logo="x" group-title="x",RTL Luxembourg LU
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/35475
+#EXTINF:0 tvg-logo="x" group-title="x",RTL Luxembourg LU 2
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/35474
+#EXTINF:0 tvg-logo="x" group-title="x",Chamber TV LU
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50970
+#EXTINF:0 tvg-logo="x" group-title="x",BX1 BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13418
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",########## United States ##########
+#EXTINF:0 tvg-logo="x" group-title="x",A&E FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4960
+#EXTINF:0 tvg-logo="x" group-title="x",A&E HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14399
+#EXTINF:0 tvg-logo="x" group-title="x",ABC News Feed HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6364
+#EXTINF:0 tvg-logo="x" group-title="x",ABC HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4925
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Life HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4933
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Family HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14396
+#EXTINF:0 tvg-logo="x" group-title="x",AMC HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4959
+#EXTINF:0 tvg-logo="x" group-title="x",AMC US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6363
+#EXTINF:0 tvg-logo="x" group-title="x",Action Max FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4869
+#EXTINF:0 tvg-logo="x" group-title="x",Animal Planet HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14393
+#EXTINF:0 tvg-logo="x" group-title="x",Animal Planet [B] HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6362
+#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13759
+#EXTINF:0 tvg-logo="x" group-title="x",beiN Sports HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4902
+#EXTINF:0 tvg-logo="x" group-title="x",BBC America US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14392
+#EXTINF:0 tvg-logo="x" group-title="x",BTN Sports US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4884
+#EXTINF:0 tvg-logo="x" group-title="x",Bet Her HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13764
+#EXTINF:0 tvg-logo="x" group-title="x",BET HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4958
+#EXTINF:0 tvg-logo="x" group-title="x",Big Ten Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6361
+#EXTINF:0 tvg-logo="x" group-title="x",Bloomberg FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4940
+#EXTINF:0 tvg-logo="x" group-title="x",Bravo HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4883
+#EXTINF:0 tvg-logo="x" group-title="x",CBS Sports Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14385
+#EXTINF:0 tvg-logo="x" group-title="x",CBS US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4885
+#EXTINF:0 tvg-logo="x" group-title="x",CBSN US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4939
+#EXTINF:0 tvg-logo="x" group-title="x",CNBC HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4956
+#EXTINF:0 tvg-logo="x" group-title="x",CNN HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4919
+#EXTINF:0 tvg-logo="x" group-title="x",CNN FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13750
+#EXTINF:0 tvg-logo="x" group-title="x",CNN [B] HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14377
+#EXTINF:0 tvg-logo="x" group-title="x",CNN US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6359
+#EXTINF:0 tvg-logo="x" group-title="x",CW HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4955
+#EXTINF:0 tvg-logo="x" group-title="x",Cartoon Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14387
+#EXTINF:0 tvg-logo="x" group-title="x",CineMax East HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14380
+#EXTINF:0 tvg-logo="x" group-title="x",5Star Max HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4911
+#EXTINF:0 tvg-logo="x" group-title="x",CMT HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14383
+#EXTINF:0 tvg-logo="x" group-title="x",Cinemax [West] HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4914
+#EXTINF:0 tvg-logo="x" group-title="x",Comedy Central US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13823
+#EXTINF:0 tvg-logo="x" group-title="x",Comedy Central HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4882
+#EXTINF:0 tvg-logo="x" group-title="x",Crime & Investigation HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4879
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Channel HD VIP US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14373
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Science FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4887
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Velocity HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14371
+#EXTINF:0 tvg-logo="x" group-title="x",Disney Channel HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14369
+#EXTINF:0 tvg-logo="x" group-title="x",Disney XD FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14368
+#EXTINF:0 tvg-logo="x" group-title="x",Disney XD HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14367
+#EXTINF:0 tvg-logo="x" group-title="x",ESPN HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14363
+#EXTINF:0 tvg-logo="x" group-title="x",ESPN News HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4935
+#EXTINF:0 tvg-logo="x" group-title="x",ESPN U US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/33498
+#EXTINF:0 tvg-logo="x" group-title="x",El Rey Network US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13758
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14562
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports 1 US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/63735
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports 1 HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/137256
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports 2 US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/63365
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports 2 HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/494259
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Soccer Plus HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14408
+#EXTINF:0 tvg-logo="x" group-title="x",FX FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13763
+#EXTINF:0 tvg-logo="x" group-title="x",FX HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4942
+#EXTINF:0 tvg-logo="x" group-title="x",FXX FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13756
+#EXTINF:0 tvg-logo="x" group-title="x",FXX HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14353
+#EXTINF:0 tvg-logo="x" group-title="x",Fashion TV FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14362
+#EXTINF:0 tvg-logo="x" group-title="x",Fox FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13757
+#EXTINF:0 tvg-logo="x" group-title="x",Fox News HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14358
+#EXTINF:0 tvg-logo="x" group-title="x",Fox News [B] HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14357
+#EXTINF:0 tvg-logo="x" group-title="x",Fox News US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4943
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports North HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14355
+#EXTINF:0 tvg-logo="x" group-title="x",HBO Comedy FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4921
+#EXTINF:0 tvg-logo="x" group-title="x",HBO Comedy HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13762
+#EXTINF:0 tvg-logo="x" group-title="x",HGTV HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14348
+#EXTINF:0 tvg-logo="x" group-title="x",HGTV US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10218
+#EXTINF:0 tvg-logo="x" group-title="x",History Channel HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4880
+#EXTINF:0 tvg-logo="x" group-title="x",Lifetime HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14343
+#EXTINF:0 tvg-logo="x" group-title="x",MLB Live US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4867
+#EXTINF:0 tvg-logo="x" group-title="x",MLB Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14402
+#EXTINF:0 tvg-logo="x" group-title="x",MLB Network FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4868
+#EXTINF:0 tvg-logo="x" group-title="x",MSNBC HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14398
+#EXTINF:0 tvg-logo="x" group-title="x",MTV HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14342
+#EXTINF:0 tvg-logo="x" group-title="x",NBA TV HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6355
+#EXTINF:0 tvg-logo="x" group-title="x",NBC Golf FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13753
+#EXTINF:0 tvg-logo="x" group-title="x",NBC Golf HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4953
+#EXTINF:0 tvg-logo="x" group-title="x",NBC Golf US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14410
+#EXTINF:0 tvg-logo="x" group-title="x",CNBC [B] HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14337
+#EXTINF:0 tvg-logo="x" group-title="x",NBC Sports Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4952
+#EXTINF:0 tvg-logo="x" group-title="x",NBC Sports Network FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14403
+#EXTINF:0 tvg-logo="x" group-title="x",NBC4 [New York] HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4954
+#EXTINF:0 tvg-logo="x" group-title="x",NHL Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4875
+#EXTINF:0 tvg-logo="x" group-title="x",Nat Geo Wild FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13745
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4881
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14339
+#EXTINF:0 tvg-logo="x" group-title="x",OWN HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13760
+#EXTINF:0 tvg-logo="x" group-title="x",Outdoor Channel HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14325
+#EXTINF:0 tvg-logo="x" group-title="x",PAC-12 Oregon US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4863
+#EXTINF:0 tvg-logo="x" group-title="x",Showtime HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4926
+#EXTINF:0 tvg-logo="x" group-title="x",Sportsnet Ontario US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14406
+#EXTINF:0 tvg-logo="x" group-title="x",Sportsnet 360 HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4915
+#EXTINF:0 tvg-logo="x" group-title="x",Sportsnet West HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4861
+#EXTINF:0 tvg-logo="x" group-title="x",Sportsnet Ontario HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14317
+#EXTINF:0 tvg-logo="x" group-title="x",Starz Cinema FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4898
+#EXTINF:0 tvg-logo="x" group-title="x",Starz Comedy FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4899
+#EXTINF:0 tvg-logo="x" group-title="x",Starz Edge US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4897
+#EXTINF:0 tvg-logo="x" group-title="x",TBS HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4908
+#EXTINF:0 tvg-logo="x" group-title="x",TLC FHD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13734
+#EXTINF:0 tvg-logo="x" group-title="x",TLC HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14397
+#EXTINF:0 tvg-logo="x" group-title="x",TLC US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4924
+#EXTINF:0 tvg-logo="x" group-title="x",TNT HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6354
+#EXTINF:0 tvg-logo="x" group-title="x",TNT FHD VIP US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4876
+#EXTINF:0 tvg-logo="x" group-title="x",TSN 1 HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6353
+#EXTINF:0 tvg-logo="x" group-title="x",TSN 2 HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6352
+#EXTINF:0 tvg-logo="x" group-title="x",USA Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4901
+#EXTINF:0 tvg-logo="x" group-title="x",VH1 US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11254
+#EXTINF:0 tvg-logo="x" group-title="x",VH1 HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6753
+#EXTINF:0 tvg-logo="x" group-title="x",WWE Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14404
+#EXTINF:0 tvg-logo="x" group-title="x",WWE Network [B] HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6347
+#EXTINF:0 tvg-logo="x" group-title="x",ESPN Sec Network HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/32382
+#EXTINF:0 tvg-logo="x" group-title="x",NESN HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/34415
+#EXTINF:0 tvg-logo="x" group-title="x",Reelz Channel HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51014
+#EXTINF:0 tvg-logo="x" group-title="x",Oxygen HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51015
+#EXTINF:0 tvg-logo="x" group-title="x",NFL RedZone HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53157
+#EXTINF:0 tvg-logo="x" group-title="x",Tennis Channel HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7084
+#EXTINF:0 tvg-logo="x" group-title="x",MSG HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/623146
+#EXTINF:0 tvg-logo="x" group-title="x",Syfy HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/648340
+#EXTINF:0 tvg-logo="x" group-title="x",TV Land Classic HD US
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655120
+VLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20044
 #EXTINF:0 tvg-logo="x" group-title="x",C More First FHD SE [Multi-Sub]
 #EXTVLCOPT:network-caching=1000
