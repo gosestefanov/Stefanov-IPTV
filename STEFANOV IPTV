@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Macedonia;Lokalni i Regionalni" ,MRT 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Macedonia;Nacionalni i lokalni",MRT 1 HD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Macedonia",MRT 1 HD MK
@@ -10,7 +10,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7885
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/MRT_3_2020.png" group-title="Macedonia",MRT 3 MK
 #EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7876
+http://play.mrt.com.mk/5cef8aed-c71d-4884-a673-577398270201
+#EXTINF:0 tvg-logo="x" group-title="Macedonia",MRT 5 MK
+#EXTVLCOPT:network-caching=1000
+blob:http://play.mrt.com.mk/d61b1896-9e2f-4ffd-9039-8dd154877e23
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/MRT_Sobraniski_Kanal_new_logo.png" group-title="Macedonia",Sobraniski Kanal MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657506
@@ -48,7 +51,6 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685984
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674053
 #EXTINF:0 tvg-logo="https://mnet.mk/wp-content/uploads/2020/10/logo-mnet-golemo-svetla-1024x154.png" group-title="Macedonia", MNET HD
-#EXTVLCOPT:network-caching=1000
 https://giganet.mk/hls/mnet.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJwYgRxZH8-75T8NWwk0XhnHW5hKr_CqeC1UIBrT=s900-c-k-c0xffffffff-no-rj-mo" group-title="Macedonia",KTV Kavadarci MK
 #EXTVLCOPT:network-caching=1000
@@ -159,187 +161,187 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685983
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674106
 
-#EXTINF:0 group-title="EX-YU",HBO 3
+#EXTINF:0 tvg-logo="x" group-title="EX-YU",HBO 3
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28101
-#EXTINF:0 group-title="EX-YU",DIVA
+#EXTINF:0 tvg-logo="x" group-title="EX-YU",DIVA
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28102
-#EXTINF:0 group-title="EX-YU",Fox
+#EXTINF:0 tvg-logo="x" group-title="EX-YU",Fox
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28103
-#EXTINF:0,EX-YU: CineStar Premiere 2
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", CineStar Premiere 2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28104
-#EXTINF:0,EX-YU: Cinemax
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Cinemax
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28105
-#EXTINF:0,EX-YU: Cinemax 2
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Cinemax 2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28106
-#EXTINF:0,EX-YU: BN MUSIC
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", BN MUSIC
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28107
-#EXTINF:0,EX-YU: Balkanika TV
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Balkanika TV
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28108
-#EXTINF:0,EX-YU: CMC
+#EXTINF:0 tvg-logo="x" group-title="EX-YU",CMC
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28109
-#EXTINF:0,EX-YU: DM SAT
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", DM SAT
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28110
-#EXTINF:0,EX-YU: GRAND TV
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", GRAND TV
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28111
-#EXTINF:0,EX-YU: Grand TV 2
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Grand TV 2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28112
-#EXTINF:0,EX-YU: KCN 1
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", KCN 1
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28113
-#EXTINF:0,EX-YU: KCN 2
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", KCN 2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28114
-#EXTINF:0,EX-YU:  KCN 3
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", KCN 3
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28115
-#EXTINF:0,EX-YU: MTV Igman
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", MTV Igman
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28116
-#EXTINF:0,EX-YU: Jugoton
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Jugoton
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28117
-#EXTINF:0,EX-YU: Izvorna TV
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Izvorna TV
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28118
-#EXTINF:0,EX-YU: OTV Valentino
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", OTV Valentino
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28119
-#EXTINF:0,EX-YU: NICKELODEON
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", NICKELODEON
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28120
-#EXTINF:0,EX-YU: NICK JUNIOR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", NICK JUNIOR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28121
-#EXTINF:0,EX-YU: HAYATOVCI
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", HAYATOVCI
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28122
-#EXTINF:0,EX-YU: BABY TV
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", BABY TV
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28123
-#EXTINF:0,EX-YU: Discovery
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Discovery
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28124
-#EXTINF:0,EX-YU: Nat Geo Wild
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Nat Geo Wild
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28125
-#EXTINF:0,EX-YU: 24 Kitchen
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", 24 Kitchen
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28126
-#EXTINF:0,EX-YU: History
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", History
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28127
-#EXTINF:0,EX-YU: Lov i ribolov
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Lov i ribolov
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28128
-#EXTINF:0,EX-YU: History h2
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", History h2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28129
-#EXTINF:0,EX-YU: ARENA SPORT 1 HR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 1 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28130
-#EXTINF:0,EX-YU: ARENA SPORT 2 HR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 2 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28131
-#EXTINF:0,EX-YU: ARENA SPORT 3 HR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 3 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28132
-#EXTINF:0,EX-YU: ARENA SPORT 5 HR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 5 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28133
-#EXTINF:0,EX-YU: ARENA SPORT 1 SRB
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 1 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28134
-#EXTINF:0,EX-YU: ARENA SPORT 3 SRB
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 3 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28135
-#EXTINF:0,EX-YU: ARENA SPORT 4 SRB
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 4 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28136
-#EXTINF:0,EX-YU: ARENA SPORT 5 SRB
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 5 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28137
-#EXTINF:0,EX-YU: SPORT KLUB 1 HR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 1 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28138
-#EXTINF:0,EX-YU: SPORT KLUB 2 HR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 2 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28139
-#EXTINF:0,EX-YU: SPORT KLUB 3 HR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 3 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28140
-#EXTINF:0,EX-YU: SPORT KLUB 4 HR
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 4 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28141
-#EXTINF:0,EX-YU: SPORT KLUB 1 SRB
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 1 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28142
-#EXTINF:0,EX-YU: SPORT KLUB 2 SRB
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 2 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28143
-#EXTINF:0,EX-YU: SPORT KLUB 3 SRB
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 3 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28144
-#EXTINF:0,EX-YU: Planet Sport 1
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Planet Sport 1
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28145
-#EXTINF:0,EX-YU: Planet Sport 2
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Planet Sport 2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28146
-#EXTINF:0,EX-YU: Planet Sport 5
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Planet Sport 5
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28147
-#EXTINF:0,EX-YU: Moja TV Premijer Liga
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Moja TV Premijer Liga
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28148
-#EXTINF:0,EX-YU: Pink 1
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink 1
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28149
-#EXTINF:0,EX-YU: Pink 2
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink 2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28150
-#EXTINF:0,EX-YU: Pink 3
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink 3
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28151
-#EXTINF:0,EX-YU: Pink Action
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink Action
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28152
-#EXTINF:0,EX-YU : Pink Comedy
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink Comedy
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28153
-#EXTINF:0,EX-YU: Pink Crime & Mistery
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink Crime & Mistery
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28154
-#EXTINF:0,EX-YU: Pink Film
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink Film
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28155
-#EXTINF:0,EX-YU: Pink Horror
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink Horror
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28156
-#EXTINF:0,EX-YU: Pink Premium
+#EXTINF:0 tvg-logo="x" group-title="EX-YU",Pink Premium
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28157
-#EXTINF:0,EX-YU: Pink Serije
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink Serije
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28158
-#EXTINF:0,EX-YU: Pink Thriller
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink Thriller
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28159
-#EXTINF:0,EX-YU: Pink Western
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink Western
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28160
-#EXTINF:0,EX-YU: Pink classic
+#EXTINF:0 tvg-logo="x" group-title="EX-YU", Pink classic
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28161
 
