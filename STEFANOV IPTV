@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Macedonia",MRT 1 HD MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png" group-title="Macedonia",MRT 2 FHD MK
 #EXTVLCOPT:network-caching=1000
@@ -72,49 +72,49 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12402
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674055
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Travel Channel MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657484
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Viasat History MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657482
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",TLC MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685987
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Viasat Explore MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657483
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",HBO FHD MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657495
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",HBO HD MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657491
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",HBO 2 FHD MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674109
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",HBO 3 FHD MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657493
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",CinePlex HD MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657513
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Cinestar TV Premiere 1 MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657490
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Cinestar TV Premiere 2 MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657489
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Filmbox Extra FHD MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23185
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Filmbox Stars MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657485
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",TV 1000 MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657488
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",M1 Film MK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=4000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657497
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",M2 Film MK
 #EXTVLCOPT:network-caching=1000
