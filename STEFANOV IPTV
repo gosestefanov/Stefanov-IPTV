@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Macedonia",MRT 1 HD MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12399
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png" group-title="Macedonia",MRT 2 FHD MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7885
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/MRT_3_2020.png" group-title="Macedonia",MRT 3 MK
-#EXTVLCOPT:network-caching=1000
-http://play.mrt.com.mk/5cef8aed-c71d-4884-a673-577398270201
-#EXTINF:0 tvg-logo="x" group-title="Macedonia",MRT 5 MK
-#EXTVLCOPT:network-caching=1000
-http://play.mrt.com.mk/d61b1896-9e2f-4ffd-9039-8dd154877e23
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/MRT_Sobraniski_Kanal_new_logo.png" group-title="Macedonia",Sobraniski Kanal MK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657506
@@ -72,49 +66,49 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12402
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674055
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Travel Channel MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657484
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Viasat History MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657482
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",TLC MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685987
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Viasat Explore MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657483
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",HBO FHD MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657495
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",HBO HD MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657491
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",HBO 2 FHD MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/674109
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",HBO 3 FHD MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657493
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",CinePlex HD MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657513
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Cinestar TV Premiere 1 MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657490
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Cinestar TV Premiere 2 MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657489
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Filmbox Extra FHD MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/23185
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",Filmbox Stars MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657485
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",TV 1000 MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657488
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",M1 Film MK
-#EXTVLCOPT:network-caching=4000
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/657497
 #EXTINF:0 tvg-logo="x" group-title="Macedonia",M2 Film MK
 #EXTVLCOPT:network-caching=1000
@@ -245,58 +239,58 @@ http://super1.ideaiptv.com:2052/bandook/3243243/28128
 #EXTINF:0 tvg-logo="x" group-title="EX-YU", History h2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28129
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 1 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", ARENA SPORT 1 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28130
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 2 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", ARENA SPORT 2 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28131
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 3 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", ARENA SPORT 3 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28132
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 5 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", ARENA SPORT 5 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28133
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 1 SRB
+#EXTINF:0 tvg-logo="x" group-title="SPORT", ARENA SPORT 1 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28134
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 3 SRB
+#EXTINF:0 tvg-logo="x" group-title="SPORT", ARENA SPORT 3 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28135
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 4 SRB
+#EXTINF:0 tvg-logo="x" group-title="SPORT", ARENA SPORT 4 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28136
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", ARENA SPORT 5 SRB
+#EXTINF:0 tvg-logo="x" group-title="SPORT", ARENA SPORT 5 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28137
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 1 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", SPORT KLUB 1 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28138
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 2 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", SPORT KLUB 2 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28139
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 3 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", SPORT KLUB 3 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28140
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 4 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", SPORT KLUB 4 HR
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28141
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 1 SRB
+#EXTINF:0 tvg-logo="x" group-title="SPORT", SPORT KLUB 1 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28142
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 2 SRB
+#EXTINF:0 tvg-logo="x" group-title="SPORT", SPORT KLUB 2 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28143
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", SPORT KLUB 3 SRB
+#EXTINF:0 tvg-logo="x" group-title="SPORT", SPORT KLUB 3 SRB
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28144
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", Planet Sport 1
+#EXTINF:0 tvg-logo="x" group-title="SPORT", Planet Sport 1
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28145
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", Planet Sport 2
+#EXTINF:0 tvg-logo="x" group-title="SPORT", Planet Sport 2
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28146
-#EXTINF:0 tvg-logo="x" group-title="EX-YU", Planet Sport 5
+#EXTINF:0 tvg-logo="x" group-title="SPORT", Planet Sport 5
 #EXTVLCOPT:network-caching=1000
 http://super1.ideaiptv.com:2052/bandook/3243243/28147
 #EXTINF:0 tvg-logo="x" group-title="EX-YU", Moja TV Premijer Liga
@@ -346,43 +340,43 @@ http://super1.ideaiptv.com:2052/bandook/3243243/28161
 #EXTINF:0 tvg-logo="x" group-title="Bulgaria",Alfa TV BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685959
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Diema Sport 1 HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Diema Sport 1 HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5982
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Diema Sport 1 BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Diema Sport 1 BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681649
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Diema Sport 2 HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Diema Sport 2 HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5981
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Max Sport 1 HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Max Sport 1 HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50865
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Max Sport 2 HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Max Sport 2 HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50866
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Max Sport 3 HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Max Sport 3 HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/629048
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Max Sport 4 HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Max Sport 4 HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/641399
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Nova Sport HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Nova Sport HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5979
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Ring TV HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Ring TV HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5980
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Auto Motor Sport BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Auto Motor Sport BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37964
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Sport Plus FHD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sport Plus FHD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9022
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Eurosport 1 HD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Eurosport 1 HD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625815
-#EXTINF:0 tvg-logo="x" group-title="Bulgaria",Eurosport 2 FHD BG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Eurosport 2 FHD BG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9029
 #EXTINF:0 tvg-logo="x" group-title="Bulgaria",HBO FHD BG
@@ -613,13 +607,13 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672294
 #EXTINF:0 tvg-logo="x" group-title="Switzerland",5+ HD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8992
-#EXTINF:0  tvg-logo="x" group-title="Switzerland",Blue Sport 1 FHD CH
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Blue Sport 1 FHD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7903
-#EXTINF:0  tvg-logo="x" group-title="Switzerland",Blue Sport 2 FHD CH
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Blue Sport 2 FHD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677923
-#EXTINF:0 tvg-logo="x" group-title="x" tvg-logo="x" group-title="Switzerland",Blue Action FHD CH
+#EXTINF:0 tvg-logo="x" group-title="Switzerland",Blue Action FHD CH
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/668093
 #EXTINF:0 tvg-logo="x" group-title="Switzerland",Blue Prime FHD CH
@@ -657,10 +651,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7899
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7900
 
 
-#EXTINF:0 tvg-logo="x" group-title="Malaysia",SkyNet Sports 1 HD MY
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SkyNet Sports 1 HD MY
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7791
-#EXTINF:0 tvg-logo="x" group-title="Malaysia",SkyNet Sports 2 HD MY
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SkyNet Sports 2 HD MY
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7790
 
@@ -759,13 +753,13 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683552
 #EXTINF:0 tvg-logo="x" group-title="x",Canaria SAT ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685648
-#EXTINF:0 tvg-logo="x" group-title="x",bein Sports Espana FHD ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",bein Sports Espana FHD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7248
-#EXTINF:0 tvg-logo="x" group-title="x",bein Sports Espana HD ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",bein Sports Espana HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8745
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Espana ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Espana ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13540
 #EXTINF:0 tvg-logo="x" group-title="x",DAZN 1 FHD VIP ES
@@ -780,7 +774,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683547
 #EXTINF:0 tvg-logo="x" group-title="x",DAZN 1 [Web TV] HD VIP ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683551
-#EXTINF:0 tvg-logo="x" group-title="x",La Liga TV BAR HD ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",La Liga TV BAR HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/669971
 #EXTINF:0 tvg-logo="x" group-title="x",Movistar La Liga FHD ES
@@ -816,7 +810,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/620686
 #EXTINF:0 tvg-logo="x" group-title="x",Movistar Liga De Campeones HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/620685
-#EXTINF:0 tvg-logo="x" group-title="x",Movistar Liga De Campeones 1 [Match Time] HD ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Movistar Liga De Campeones 1 [Match Time] HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683153
 #EXTINF:0 tvg-logo="x" group-title="x",Movistar Deportes FHD ES
@@ -831,13 +825,13 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16277
 #EXTINF:0 tvg-logo="x" group-title="x",Movistar Deportes 2 HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7239
-#EXTINF:0 tvg-logo="x" group-title="x",Movistar Futbol FHD ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Movistar Futbol FHD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13551
-#EXTINF:0 tvg-logo="x" group-title="x",Movistar Futbol HD ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Movistar Futbol HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8783
-#EXTINF:0 tvg-logo="x" group-title="x",Movistar Futbol ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Movistar Futbol ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7238
 #EXTINF:0 tvg-logo="x" group-title="x",Movistar F1 FHD ES
@@ -855,25 +849,25 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7237
 #EXTINF:0 tvg-logo="x" group-title="x",Movistar Golf HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13550
-#EXTINF:0 tvg-logo="x" group-title="x",Gol TV ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Gol TV ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13457
 #EXTINF:0 tvg-logo="x" group-title="x",Teledeporte ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7178
-#EXTINF:0 tvg-logo="x" group-title="x",Real Madrid Channel ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Real Madrid Channel ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7182
-#EXTINF:0 tvg-logo="x" group-title="x",Tele Madrid ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Tele Madrid ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679745
-#EXTINF:0 tvg-logo="x" group-title="x",Barca TV ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Barca TV ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7250
-#EXTINF:0 tvg-logo="x" group-title="x",Eurosport 1 HD ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Eurosport 1 HD ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8746
-#EXTINF:0 tvg-logo="x" group-title="x",Eurosport 2 ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Eurosport 2 ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13531
 #EXTINF:0 tvg-logo="x" group-title="x",Viajar FHD ES
@@ -1273,10 +1267,10 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6715
 #EXTINF:0 tvg-logo="x" group-title="x",Fox Life LAM
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6719
-#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports LAM
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Fox Sports LAM
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/67322
-#EXTINF:0 tvg-logo="x" group-title="x",Fox Sport 2 LAM
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Fox Sport 2 LAM
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/67132
 #EXTINF:0 tvg-logo="x" group-title="x",Glitz LAM
@@ -1372,7 +1366,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626901
 #EXTINF:0 tvg-logo="x" group-title="x",Encuentro ARG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626926
-#EXTINF:0 tvg-logo="x" group-title="x",Fox Sports 1 HD ARG
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Fox Sports 1 HD ARG
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626925
 #EXTINF:0 tvg-logo="x" group-title="x",Garage TV ARG
@@ -1465,364 +1459,364 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/638077
 
 
 
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Variety 1 HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Variety 1 HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678020
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Variety 2 HD AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Variety 2 HD AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678021
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Variety 3 HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Variety 3 HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678022
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Variety 4 HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Variety 4 HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678023
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Football HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Football HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678024
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Action FHD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Action FHD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683568
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Motorsport HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Motorsport HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678025
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Rugby HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Rugby HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678026
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Tennis HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Tennis HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678027
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Golf HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Golf HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678028
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Premier League HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Premier League HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678029
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport La Liga HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport La Liga HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683001
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport PSL HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport PSL HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678030
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Grandstand HD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Grandstand HD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678031
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Maximo HD AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Maximo HD AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682919
-#EXTINF:0 tvg-logo="x" group-title="x",SuperSport Blitz FHD VIP AF
+#EXTINF:0 tvg-logo="x" group-title="SPORT",SuperSport Blitz FHD VIP AF
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682921
-#EXTINF:0 tvg-logo="x" group-title="x",Optus Sport [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus Sport [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683977
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 2 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 2 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683987
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 3 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 3 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683979
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 4 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 4 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683980
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 5 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 5 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683981
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 6 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 6 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683982
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 7 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 7 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683983
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 8 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 8 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683984
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 9 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 9 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683985
-#EXTINF:0 tvg-logo="x" group-title="x",Optus 10 [Match Time] HD VIP AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Optus 10 [Match Time] HD VIP AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683986
-#EXTINF:0 tvg-logo="x" group-title="x",AFL 1 [Match Time] HD AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AFL 1 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683270
-#EXTINF:0 tvg-logo="x" group-title="x",AFL 2 [Match Time] HD AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AFL 2 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683271
 #EXTINF:0 tvg-logo="x" group-title="x",AFL 3 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683272
-#EXTINF:0 tvg-logo="x" group-title="x",AFL 4 [Match Time] HD AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AFL 4 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683273
-#EXTINF:0 tvg-logo="x" group-title="x",AFL 5 [Match Time] HD AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AFL 5 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683274
-#EXTINF:0 tvg-logo="x" group-title="x",AFL 6 [Match Time] HD AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AFL 6 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683275
-#EXTINF:0 tvg-logo="x" group-title="x",AFL 7 [Match Time] HD AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AFL 7 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683276
-#EXTINF:0 tvg-logo="x" group-title="x",AFL 8 [Match Time] HD AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AFL 8 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683277
-#EXTINF:0 tvg-logo="x" group-title="x",AFL 9 [Match Time] HD AU
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AFL 9 [Match Time] HD AU
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683278
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports News FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports News FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/676904
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 1 FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 1 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682932
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 1 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 1 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5482
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 1 HD VIP AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 1 HD VIP AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678748
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 2 FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 2 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682933
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 2 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 2 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5481
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 3 FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 3 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682934
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 3 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 3 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5480
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 4 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 4 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5479
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 5 FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 5 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682935
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 5 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 5 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5478
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 6 FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 6 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54777
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 7 FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 7 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683135
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 7 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 7 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5476
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 8 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 8 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53432
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 9 FHD VIP AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 9 FHD VIP AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682936
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 9 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 9 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5474
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 10 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 10 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5473
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 11 FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 11 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683410
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 11 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 11 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/667466
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 12 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 12 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54715
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports HD US
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports HD US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682942
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Espanol HD VIP US
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Espanol HD VIP US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678747
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Haber HD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Haber HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682950
 #EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 1 HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682946
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 2 FHD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 2 FHD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682947
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 3 VIP TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 3 VIP TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682948
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 4 FHD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 4 FHD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682949
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Max 1 HD VIP TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Max 1 HD VIP TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682953
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Max 2 HD VIP TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Max 2 HD VIP TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682954
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 1 HD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 1 HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682943
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 2 HD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports 2 HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682944
 #EXTINF:0 tvg-logo="x" group-title="x",beIN Sports 3 SD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682945
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Max 4 HD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Max 4 HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5470
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Max 5 FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Max 5 FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53604
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Max 6 FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Max 6 FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625242
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Max 7 FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Max 7 FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/54678
-#EXTINF:0 tvg-logo="x" group-title="x",beIN Sports Max 8 FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",beIN Sports Max 8 FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5466
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 1 FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 1 FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682956
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 1 HD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 1 HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625226
 #EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 2 FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682957
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 2 HD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 2 HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682955
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 3 FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 3 FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682958
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 3 HD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 3 HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625233
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 4 FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 4 FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682959
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 4 HD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 4 HD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682961
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 5 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 5 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682962
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 6 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 6 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682963
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 7 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 7 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682964
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 8 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 8 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682965
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 9 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 9 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682967
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 10 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 10 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682966
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 11 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 11 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682968
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 12 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 12 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682969
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 13 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 13 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682970
-#EXTINF:0 tvg-logo="x" group-title="x",RMC Sport 14 [Match Time] FHD FR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",RMC Sport 14 [Match Time] FHD FR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682971
-#EXTINF:0 tvg-logo="x" group-title="x",Sky Sports Main Event FHD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sky Sports Main Event FHD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682993
-#EXTINF:0 tvg-logo="x" group-title="x",WWE Network HD VIP US
+#EXTINF:0 tvg-logo="x" group-title="SPORT",WWE Network HD VIP US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683002
-#EXTINF:0 tvg-logo="x" group-title="x",Sky Sports Mix FHD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sky Sports Mix FHD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683003
-#EXTINF:0 tvg-logo="x" group-title="x",Premier Sports 1 HD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Premier Sports 1 HD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682991
-#EXTINF:0 tvg-logo="x" group-title="x",Premier Sports 2 HD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Premier Sports 2 HD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682992
-#EXTINF:0 tvg-logo="x" group-title="x",Eir Sports 1 HD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Eir Sports 1 HD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682994
-#EXTINF:0 tvg-logo="x" group-title="x",Eir Sports 2 HD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Eir Sports 2 HD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682995
-#EXTINF:0 tvg-logo="x" group-title="x",Sky Sports Cricket HD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sky Sports Cricket HD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684433
-#EXTINF:0 tvg-logo="x" group-title="x",Sky Sports Golf HD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sky Sports Golf HD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5396
-#EXTINF:0 tvg-logo="x" group-title="x",Liverpool FC TV FHD UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Liverpool FC TV FHD UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5425
-#EXTINF:0 tvg-logo="x" group-title="x",NBA TV HD US
+#EXTINF:0 tvg-logo="x" group-title="SPORT",NBA TV HD US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5450
-#EXTINF:0 tvg-logo="x" group-title="x",Freesports HD VIP UK
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Freesports HD VIP UK
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682990
-#EXTINF:0 tvg-logo="x" group-title="x",Saudi 24 FHD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Saudi 24 FHD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685725
 #EXTINF:0 tvg-logo="x" group-title="x",AD Sports 1 HD ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682978
-#EXTINF:0 tvg-logo="x" group-title="x",AD Sports 2 HD ARB
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AD Sports 2 HD ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682979
-#EXTINF:0 tvg-logo="x" group-title="x",AD Sports 3 HD ARB
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AD Sports 3 HD ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682973
-#EXTINF:0 tvg-logo="x" group-title="x",AD Sports 4 FHD ARB
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AD Sports 4 FHD ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5404
-#EXTINF:0 tvg-logo="x" group-title="x",AD Sports 5 HD ARB
+#EXTINF:0 tvg-logo="x" group-title="SPORT",AD Sports 5 HD ARB
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682974
-#EXTINF:0 tvg-logo="x" group-title="x",Dubai Sports 1 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Dubai Sports 1 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682975
-#EXTINF:0 tvg-logo="x" group-title="x",Dubai Sports 2 HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Dubai Sports 2 HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682976
-#EXTINF:0 tvg-logo="x" group-title="x",Sharjah Sport HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sharjah Sport HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682977
-#EXTINF:0 tvg-logo="x" group-title="x",Yas Sport HD AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Yas Sport HD AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682972
-#EXTINF:0 tvg-logo="x" group-title="x",DMC Sports AR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",DMC Sports AR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5403
-#EXTINF:0 tvg-logo="x" group-title="x",TRT Spor 1 FHD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",TRT Spor 1 FHD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683139
-#EXTINF:0 tvg-logo="x" group-title="x",TRT Spor 2 FHD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",TRT Spor 2 FHD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683140
-#EXTINF:0 tvg-logo="x" group-title="x",Tivibuspor 2 HD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Tivibuspor 2 HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/678942
-#EXTINF:0 tvg-logo="x" group-title="x",Tivibuspor 1 HD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Tivibuspor 1 HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5439
-#EXTINF:0 tvg-logo="x" group-title="x",Tivibuspor 3 HD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Tivibuspor 3 HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682980
-#EXTINF:0 tvg-logo="x" group-title="x",Smart Sport 1 HD TR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Smart Sport 1 HD TR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5446
 #EXTINF:0 tvg-logo="x" group-title="x",Telefoot Stadium HD FR
@@ -1843,7 +1837,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5440
 #EXTINF:0 tvg-logo="x" group-title="x",Kombat Sport HD PT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/682981
-#EXTINF:0 tvg-logo="x" group-title="x",Real Madrid TV ES
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Real Madrid TV ES
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5402
 #EXTINF:0 tvg-logo="x" group-title="x",Digi Sport 1 FHD RO
@@ -1906,25 +1900,25 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5394
 #EXTINF:0 tvg-logo="x" group-title="x",Sky Sport Austria 2 FHD AT
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5393
-#EXTINF:0 tvg-logo="x" group-title="x",Fight Channel HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Fight Channel HR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12383
-#EXTINF:0 tvg-logo="x" group-title="x",Sport Klub HD 1 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sport Klub HD 1 HR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625227
-#EXTINF:0 tvg-logo="x" group-title="x",Sport Klub HD 2 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sport Klub HD 2 HR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7088
-#EXTINF:0 tvg-logo="x" group-title="x", Sport Klub HD 3 HR
+#EXTINF:0 tvg-logo="x" group-title="SPORT", Sport Klub HD 3 HR
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7087
-#EXTINF:0 tvg-logo="x" group-title="x",Sport Klub FHD 1 RS
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sport Klub FHD 1 RS
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53164
-#EXTINF:0 tvg-logo="x" group-title="x",Sport Klub FHD 2 RS
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sport Klub FHD 2 RS
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5444
-#EXTINF:0 tvg-logo="x" group-title="x",Sport Klub HD 3 RS
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sport Klub HD 3 RS
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5443
 #EXTINF:0 tvg-logo="x" group-title="x",Ziggo Sport Votball HD NL
@@ -6148,19 +6142,19 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5319
 #EXTINF:0 tvg-logo="x" group-title="x",Digi Sport 4 RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5318
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Sport 1 RO
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Sport 1 RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53855
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Sport 1 [B] RO
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Sport 1 [B] RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/128252
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Sport 2 FHD RO
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Sport 2 FHD RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12920
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Sport 3 RO
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Sport 3 RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12979
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Sport 4 RO
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Sport 4 RO
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12042
 #EXTINF:0 tvg-logo="x" group-title="x",Eurosport 1 FHD RO
@@ -7541,52 +7535,52 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8226
 #EXTINF:0 tvg-logo="x" group-title="x",Sport1+ FHD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679847
-#EXTINF:0 tvg-logo="x" group-title="x",Sport1+ HD [B] DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",,Sport1+ HD [B] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679848
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Fußball 2 HD [Match Time] DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Fußball 2 HD [Match Time] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679822
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Fußball 1 HD [Match Time] DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Fußball 1 HD [Match Time] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679821
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Fußball 3 HD [Match Time] DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Fußball 3 HD [Match Time] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679823
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Fußball 4 HD [Match Time] DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Fußball 4 HD [Match Time] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679824
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Fußball 5 HD [Match Time] DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Fußball 5 HD [Match Time] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679825
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Fußball 6 HD [Match Time] DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Fußball 6 HD [Match Time] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679826
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Fußball 7 HD [Match Time] DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Fußball 7 HD [Match Time] DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679827
 #EXTINF:0 tvg-logo="x" group-title="x",Telekom Eishockey 1 [Match Time] HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679671
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Eishockey 2 [Match Time] HD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Eishockey 2 [Match Time] HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679672
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Eishockey 3 [Match Time] HD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Eishockey 3 [Match Time] HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679673
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Eishockey 4 [Match Time] HD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Eishockey 4 [Match Time] HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679676
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Basketball 1 [Match Time] HD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Basketball 1 [Match Time] HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679674
-#EXTINF:0 tvg-logo="x" group-title="x",Telekom Basketball 2 [Match Time] HD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Telekom Basketball 2 [Match Time] HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/679675
-#EXTINF:0 tvg-logo="x" group-title="x",Eurosport 1 FHD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Eurosport 1 FHD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8218
-#EXTINF:0 tvg-logo="x" group-title="x",Eurosport 2 FHD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Eurosport 2 FHD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9131
 #EXTINF:0 tvg-logo="x" group-title="x",Eurosport 2 Xtra FHD DE
@@ -7595,7 +7589,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13163
 #EXTINF:0 tvg-logo="x" group-title="x",Eurosport 2 Xtra HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9130
-#EXTINF:0 tvg-logo="x" group-title="x",Sport Digital FHD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",Sport Digital FHD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8244
 #EXTINF:0 tvg-logo="x" group-title="x",Sport Digital HD DE
@@ -7607,7 +7601,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8222
 #EXTINF:0 tvg-logo="x" group-title="x",Auto Motor Sport FHD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9132
-#EXTINF:0 tvg-logo="x" group-title="x",FC Bayern TV HD DE
+#EXTINF:0 tvg-logo="x" group-title="SPORT",FC Bayern TV HD DE
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9128
 #EXTINF:0 tvg-logo="x" group-title="x",DEL Sport 1 HD [Match Time] DE
@@ -11980,7 +11974,1279 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/648340
 #EXTINF:0 tvg-logo="x" group-title="x",TV Land Classic HD US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655120
-VLCOPT:network-caching=1000
+g=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14783
+#EXTINF:0 tvg-logo="x" group-title="x",NBN Lebanon +4 LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14780
+#EXTINF:0 tvg-logo="x" group-title="x",NBN TV LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5778
+#EXTINF:0 tvg-logo="x" group-title="x",Noursat LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/22699
+#EXTINF:0 tvg-logo="x" group-title="x",Noursat Alchabab LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14753
+#EXTINF:0 tvg-logo="x" group-title="x",Numidia News LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14879
+#EXTINF:0 tvg-logo="x" group-title="x",OTV Lebanon HD LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5807
+#EXTINF:0 tvg-logo="x" group-title="x",Sada El Balad LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8944
+#EXTINF:0 tvg-logo="x" group-title="x",Sada Elbalad Drama LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8945
+#EXTINF:0 tvg-logo="x" group-title="x",Tele Liban LB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5779
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",------- Yemen -------
+#EXTINF:0 tvg-logo="x" group-title="x",Yemen Shabab YE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14717
+#EXTINF:0 tvg-logo="x" group-title="x",Yemen Today YE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15918
+#EXTINF:0 tvg-logo="x" group-title="x",Aden TV YE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15917
+#EXTINF:0 tvg-logo="x" group-title="x",Al Iman TV YE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14706
+#EXTINF:0 tvg-logo="x" group-title="x",Al Masdar TV YE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14690
+#EXTINF:0 tvg-logo="x" group-title="x",Belqees YE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14697
+#EXTINF:0 tvg-logo="x" group-title="x",Belqees TV YE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14720
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",------- Iraq -------
+#EXTINF:0 tvg-logo="x" group-title="x",Lana TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/648284
+#EXTINF:0 tvg-logo="x" group-title="x",Afak ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14680
+#EXTINF:0 tvg-logo="x" group-title="x",Al Anbar ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14665
+#EXTINF:0 tvg-logo="x" group-title="x",Al Anwar ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14663
+#EXTINF:0 tvg-logo="x" group-title="x",Al Fallujah ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14673
+#EXTINF:0 tvg-logo="x" group-title="x",Al Ghadeer ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14691
+#EXTINF:0 tvg-logo="x" group-title="x",Al Hurra Iraq ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14671
+#EXTINF:0 tvg-logo="x" group-title="x",Al Mowselya TV AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14669
+#EXTINF:0 tvg-logo="x" group-title="x",Al Rafiden ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14668
+#EXTINF:0 tvg-logo="x" group-title="x",Al Rasheed TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14667
+#EXTINF:0 tvg-logo="x" group-title="x",Al Sharqiya ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8903
+#EXTINF:0 tvg-logo="x" group-title="x",Al Sharqiya News HD ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14869
+#EXTINF:0 tvg-logo="x" group-title="x",Al Sumaria TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14666
+#EXTINF:0 tvg-logo="x" group-title="x",Al Taleaa TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14652
+#EXTINF:0 tvg-logo="x" group-title="x",Alhurra ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14707
+#EXTINF:0 tvg-logo="x" group-title="x",Alitejah TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14705
+#EXTINF:0 tvg-logo="x" group-title="x",Asia TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14699
+#EXTINF:0 tvg-logo="x" group-title="x",Hona Baghdad ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14689
+#EXTINF:0 tvg-logo="x" group-title="x",Iraqia TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14740
+#EXTINF:0 tvg-logo="x" group-title="x",Iraqi EDU ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14779
+#EXTINF:0 tvg-logo="x" group-title="x",Iraqia Sport ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14741
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",------- Syria -------
+#EXTINF:0 tvg-logo="x" group-title="x",Syria TV SY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5803
+#EXTINF:0 tvg-logo="x" group-title="x",Syria Aloula AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5800
+#EXTINF:0 tvg-logo="x" group-title="x",Syria Drama AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5801
+#EXTINF:0 tvg-logo="x" group-title="x",Syria News AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5802
+#EXTINF:0 tvg-logo="x" group-title="x",Suryoyo Sat ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21322
+#EXTINF:0 tvg-logo="x" group-title="x",Sham FM ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50702
+#EXTINF:0 tvg-logo="x" group-title="x",------- Jordan -------
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685761
+#EXTINF:0 tvg-logo="x" group-title="x",Jordan HD JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14770
+#EXTINF:0 tvg-logo="x" group-title="x",Jordan Today JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624943
+#EXTINF:0 tvg-logo="x" group-title="x",Jordan Sport JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14681
+#EXTINF:0 tvg-logo="x" group-title="x",Semsem JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8947
+#EXTINF:0 tvg-logo="x" group-title="x",Toyor Al Janah JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624942
+#EXTINF:0 tvg-logo="x" group-title="x",Aghanina JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/18652
+#EXTINF:0 tvg-logo="x" group-title="x",Roya TV HD JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50969
+#EXTINF:0 tvg-logo="x" group-title="x",Amman TV JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624944
+#EXTINF:0 tvg-logo="x" group-title="x",Zweina Baladna JO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14871
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",------- Bahrain -------
+#EXTINF:0 tvg-logo="x" group-title="x",Bahrain TV BH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8910
+#EXTINF:0 tvg-logo="x" group-title="x",Al Maaref BH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14657
+#EXTINF:0 tvg-logo="x" group-title="x",Toyor AL Janah BH
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8954
+#EXTINF:0 tvg-logo="x" group-title="x",------- Indian Arabic -------
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685763
+#EXTINF:0 tvg-logo="x" group-title="x",Zee Aflam AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8959
+#EXTINF:0 tvg-logo="x" group-title="x",Zee Alwan AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8960
+#EXTINF:0 tvg-logo="x" group-title="x",B4U Aflam AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5769
+#EXTINF:0 tvg-logo="x" group-title="x",B4U AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14836
+#EXTINF:0 tvg-logo="x" group-title="x",B4U Plus AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5768
+
+
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",------- Libya -------
+#EXTINF:0 tvg-logo="x" group-title="x",Libya TV LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14857
+#EXTINF:0 tvg-logo="x" group-title="x",Libya 1 LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8929
+#EXTINF:0 tvg-logo="x" group-title="x",Libya AL Mostakbal LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14854
+#EXTINF:0 tvg-logo="x" group-title="x",Libya ALrasmia TV LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14853
+#EXTINF:0 tvg-logo="x" group-title="x",Libya Al Ahrar TV LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14855
+#EXTINF:0 tvg-logo="x" group-title="x",Libya Al Hadath LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14852
+#EXTINF:0 tvg-logo="x" group-title="x",Libya El Watan LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14850
+#EXTINF:0 tvg-logo="x" group-title="x",Libyas Channel LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14851
+#EXTINF:0 tvg-logo="x" group-title="x",218 TV Libye LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8889
+#EXTINF:0 tvg-logo="x" group-title="x",Al Jamahiriya TV LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14856
+#EXTINF:0 tvg-logo="x" group-title="x",Tanasuh TV LY
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8952
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",------- Oman -------
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685768
+#EXTINF:0 tvg-logo="x" group-title="x",Oman Sport HD OM
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5811
+#EXTINF:0 tvg-logo="x" group-title="x",Oman TV HD OM
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5812
+
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",------- Cyprus -------
+#EXTINF:0 tvg-logo="x" group-title="x",Sat 7 ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/22698
+#EXTINF:0 tvg-logo="x" group-title="x",Sat 7 Kids ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/22697
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",CNA ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14767
+#EXTINF:0 tvg-logo="x" group-title="x",Cima ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14824
+#EXTINF:0 tvg-logo="x" group-title="x",Cima Ali Baba ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14823
+#EXTINF:0 tvg-logo="x" group-title="x",Dolly Mosalsalat ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14794
+#EXTINF:0 tvg-logo="x" group-title="x",Echorouk News ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14880
+#EXTINF:0 tvg-logo="x" group-title="x",Hareem Al Sultan ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14837
+#EXTINF:0 tvg-logo="x" group-title="x",Karameesh AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8926
+#EXTINF:0 tvg-logo="x" group-title="x",Karbala TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14738
+#EXTINF:0 tvg-logo="x" group-title="x",Toktok Aflam ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14811
+#EXTINF:0 tvg-logo="x" group-title="x",Toktok Cima ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14812
+#EXTINF:0 tvg-logo="x" group-title="x",Baby TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/33493
+#EXTINF:0 tvg-logo="x" group-title="x",Koogi TV ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625941
+#EXTINF:0 tvg-logo="x" group-title="x",Cyc Channel ARB
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/638200
+#EXTINF:0 tvg-logo="x" group-title="x",AlSirat TV AR
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/641397
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",########## Albania ##########
+#EXTINF:0 tvg-logo="x" group-title="x",RTSH 1 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4849
+#EXTINF:0 tvg-logo="x" group-title="x",RTSH 2 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10105
+#EXTINF:0 tvg-logo="x" group-title="x",RTSH 3 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14128
+#EXTINF:0 tvg-logo="x" group-title="x",RTSH Shqip AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14129
+#EXTINF:0 tvg-logo="x" group-title="x",RTK 1 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4844
+#EXTINF:0 tvg-logo="x" group-title="x",RTK 1 [B] HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14125
+#EXTINF:0 tvg-logo="x" group-title="x",RTK 2 FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4843
+#EXTINF:0 tvg-logo="x" group-title="x",RTK 2 [B] HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14124
+#EXTINF:0 tvg-logo="x" group-title="x",RTK 3 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4842
+#EXTINF:0 tvg-logo="x" group-title="x",RTK 3 [B] HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14123
+#EXTINF:0 tvg-logo="x" group-title="x",RTK 4 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4841
+#EXTINF:0 tvg-logo="x" group-title="x",RTK 4 HD [B] AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14122
+#EXTINF:0 tvg-logo="x" group-title="x",Top Channel FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4856
+#EXTINF:0 tvg-logo="x" group-title="x",Top Channel HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21321
+#EXTINF:0 tvg-logo="x" group-title="x",Top Channel [B] HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9978
+#EXTINF:0 tvg-logo="x" group-title="x",Klan TV FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4855
+#EXTINF:0 tvg-logo="x" group-title="x",Klan TV HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9985
+#EXTINF:0 tvg-logo="x" group-title="x",Alsat M FHD VIP AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683714
+#EXTINF:0 tvg-logo="x" group-title="x",Alsat M HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10014
+#EXTINF:0 tvg-logo="x" group-title="x",Alsat M AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4836
+#EXTINF:0 tvg-logo="x" group-title="x",Klan Kosova FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4846
+#EXTINF:0 tvg-logo="x" group-title="x",Klan Kosova Toksor HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10017
+#EXTINF:0 tvg-logo="x" group-title="x",Klan Plus HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4847
+#EXTINF:0 tvg-logo="x" group-title="x",RTV 21 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9959
+#EXTINF:0 tvg-logo="x" group-title="x",RTV 21 EST AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9979
+#EXTINF:0 tvg-logo="x" group-title="x",RTV 21 Toksor AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10018
+#EXTINF:0 tvg-logo="x" group-title="x",RTV 21 Maqedonia AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4839
+#EXTINF:0 tvg-logo="x" group-title="x",RTV 21 Mix HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4840
+#EXTINF:0 tvg-logo="x" group-title="x",RTV 21 Plus AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9958
+#EXTINF:0 tvg-logo="x" group-title="x",RTV 21 Popullore AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14016
+#EXTINF:0 tvg-logo="x" group-title="x",KTV Toksor AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4837
+#EXTINF:0 tvg-logo="x" group-title="x",KTV HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4838
+#EXTINF:0 tvg-logo="x" group-title="x",Vizion Plus FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4850
+#EXTINF:0 tvg-logo="x" group-title="x",Vizion Plus HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10016
+#EXTINF:0 tvg-logo="x" group-title="x",Vizion Plus EST HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9975
+#EXTINF:0 tvg-logo="x" group-title="x",Vizion Plus Toksor FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10015
+#EXTINF:0 tvg-logo="x" group-title="x",Syri Vizion AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9955
+#EXTINF:0 tvg-logo="x" group-title="x",T7 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20567
+#EXTINF:0 tvg-logo="x" group-title="x",Shenja TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7880
+#EXTINF:0 tvg-logo="x" group-title="x",TV Tetova AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10073
+#EXTINF:0 tvg-logo="x" group-title="x",Besa HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14018
+#EXTINF:0 tvg-logo="x" group-title="x",TV Koha AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10075
+#EXTINF:0 tvg-logo="x" group-title="x",ERA TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10063
+#EXTINF:0 tvg-logo="x" group-title="x",TV Dukagjini HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9954
+#EXTINF:0 tvg-logo="x" group-title="x",TV Diaspora AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10066
+#EXTINF:0 tvg-logo="x" group-title="x",RTV Presheva AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10065
+#EXTINF:0 tvg-logo="x" group-title="x",Premium Channel HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9922
+#EXTINF:0 tvg-logo="x" group-title="x",EuroNews Albania AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9930
+#EXTINF:0 tvg-logo="x" group-title="x",Tema TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4716
+#EXTINF:0 tvg-logo="x" group-title="x",Scan FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/648469
+#EXTINF:0 tvg-logo="x" group-title="x",TV Mitrovica AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9951
+#EXTINF:0 tvg-logo="x" group-title="x",TV Kopliku HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10212
+#EXTINF:0 tvg-logo="x" group-title="x",RTV Pendimi AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/624941
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal 10 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4833
+#EXTINF:0 tvg-logo="x" group-title="x",Star Shkodra AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9998
+#EXTINF:0 tvg-logo="x" group-title="x",ABC News AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4854
+#EXTINF:0 tvg-logo="x" group-title="x",ABC News EST AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9977
+#EXTINF:0 tvg-logo="x" group-title="x",ORA News HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4853
+#EXTINF:0 tvg-logo="x" group-title="x",News 24 AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10005
+#EXTINF:0 tvg-logo="x" group-title="x",Top News AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4851
+#EXTINF:0 tvg-logo="x" group-title="x",A1 Report AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4852
+#EXTINF:0 tvg-logo="x" group-title="x",Kanali 7 AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4848
+#EXTINF:0 tvg-logo="x" group-title="x",Top News HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10007
+#EXTINF:0 tvg-logo="x" group-title="x",News 24 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10006
+#EXTINF:0 tvg-logo="x" group-title="x",Arta TV HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10072
+#EXTINF:0 tvg-logo="x" group-title="x",Report TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10002
+#EXTINF:0 tvg-logo="x" group-title="x",7 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10081
+#EXTINF:0 tvg-logo="x" group-title="x",Peace TV Shqip AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10060
+#EXTINF:0 tvg-logo="x" group-title="x",Peace TV [En] AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10051
+#EXTINF:0 tvg-logo="x" group-title="x",Peace TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9932
+#EXTINF:0 tvg-logo="x" group-title="x",Supersport 1 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4729
+#EXTINF:0 tvg-logo="x" group-title="x",Supersport 2 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4728
+#EXTINF:0 tvg-logo="x" group-title="x",Supersport 3 FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625241
+#EXTINF:0 tvg-logo="x" group-title="x",Supersport 4 FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625240
+#EXTINF:0 tvg-logo="x" group-title="x",Supersport 5 FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4725
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Sport 1 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4721
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Sport 2 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/21615
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Sport 3 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4719
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Sport 4 [Match Time] FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4718
+#EXTINF:0 tvg-logo="x" group-title="x",Kujtesa Sport 1 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15177
+#EXTINF:0 tvg-logo="x" group-title="x",Kujtesa Sport 2 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/151762
+#EXTINF:0 tvg-logo="x" group-title="x",Kujtesa Sport 3 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/151754
+#EXTINF:0 tvg-logo="x" group-title="x",Kujtesa Sport 4 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15174
+#EXTINF:0 tvg-logo="x" group-title="x",RTSH Sport HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14017
+#EXTINF:0 tvg-logo="x" group-title="x",Film Aksion FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4806
+#EXTINF:0 tvg-logo="x" group-title="x",Film Aksion HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4745
+#EXTINF:0 tvg-logo="x" group-title="x",Film Hits FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4720
+#EXTINF:0 tvg-logo="x" group-title="x",Film Hits HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4805
+#EXTINF:0 tvg-logo="x" group-title="x",Film Nje HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4799
+#EXTINF:0 tvg-logo="x" group-title="x",Film DY HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4798
+#EXTINF:0 tvg-logo="x" group-title="x",Film Komedi AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4803
+#EXTINF:0 tvg-logo="x" group-title="x",Film Thriller AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4802
+#EXTINF:0 tvg-logo="x" group-title="x",Film Autor AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4801
+#EXTINF:0 tvg-logo="x" group-title="x",Film Drame AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4800
+#EXTINF:0 tvg-logo="x" group-title="x",Film Stinet AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4797
+#EXTINF:0 tvg-logo="x" group-title="x",Film Family FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9929
+#EXTINF:0 tvg-logo="x" group-title="x",Tring 3 Plus AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4789
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Comedy AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4786
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Fantasy AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4784
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Jolly FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4787
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Life AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4783
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Action AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9925
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Super AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4785
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Shqip AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4782
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Smile AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4788
+#EXTINF:0 tvg-logo="x" group-title="x",Shqip TV Hindi HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9942
+#EXTINF:0 tvg-logo="x" group-title="x",Shqip Fantasy HD AL 
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4739
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Aksion AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4774
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Novela AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4767
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Komedi FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4770
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Histori AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4809
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Shkence AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4810
+#EXTINF:0 tvg-logo="x" group-title="x",Alb Hits FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10118
+#EXTINF:0 tvg-logo="x" group-title="x",Alb Action HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4753
+#EXTINF:0 tvg-logo="x" group-title="x",Alb Thriller AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4752
+#EXTINF:0 tvg-logo="x" group-title="x",Alb Humor 1 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4748
+#EXTINF:0 tvg-logo="x" group-title="x",Kino SciFi HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4756
+#EXTINF:0 tvg-logo="x" group-title="x",Kino Action HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10215
+#EXTINF:0 tvg-logo="x" group-title="x",Kino Dark HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10214
+#EXTINF:0 tvg-logo="x" group-title="x",Kino Thriller HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4761
+#EXTINF:0 tvg-logo="x" group-title="x",Kino Gold 3 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10213
+#EXTINF:0 tvg-logo="x" group-title="x",Film Gold 1 AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10196
+#EXTINF:0 tvg-logo="x" group-title="x",Euro Film AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4796
+#EXTINF:0 tvg-logo="x" group-title="x",Digi Gold 1 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10024
+#EXTINF:0 tvg-logo="x" group-title="x",Digi Gold 1 HD [B] AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4780
+#EXTINF:0 tvg-logo="x" group-title="x",Digi Gold 2 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4779
+#EXTINF:0 tvg-logo="x" group-title="x",Digi Gold 3 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4778
+#EXTINF:0 tvg-logo="x" group-title="x",Digi Gold 4 HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9928
+#EXTINF:0 tvg-logo="x" group-title="x",X Action AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655155
+#EXTINF:0 tvg-logo="x" group-title="x",X Drama AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655151
+#EXTINF:0 tvg-logo="x" group-title="x",X Family AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655150
+#EXTINF:0 tvg-logo="x" group-title="x",X Histori AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655149
+#EXTINF:0 tvg-logo="x" group-title="x",X Humor AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655148
+#EXTINF:0 tvg-logo="x" group-title="x",X Romance AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655145
+#EXTINF:0 tvg-logo="x" group-title="x",X Thriller AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655143
+#EXTINF:0 tvg-logo="x" group-title="x",X Western AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655142
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Life AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4794
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Crime AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4792
+#EXTINF:0 tvg-logo="x" group-title="x",Fox Life AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4793
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal D Drama FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683178
+#EXTINF:0 tvg-logo="x" group-title="x",TDC HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683179
+#EXTINF:0 tvg-logo="x" group-title="x",Explorer Shkence HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4815
+#EXTINF:0 tvg-logo="x" group-title="x",Explorer Histori AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4813
+#EXTINF:0 tvg-logo="x" group-title="x",Explorer Natyra AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4814
+#EXTINF:0 tvg-logo="x" group-title="x",Living FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4831
+#EXTINF:0 tvg-logo="x" group-title="x",Tring History AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4811
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Planet AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9924
+#EXTINF:0 tvg-logo="x" group-title="x",Tring World AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4812
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Muse AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10086
+#EXTINF:0 tvg-logo="x" group-title="x",24 Kitchen NL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4808
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4818
+#EXTINF:0 tvg-logo="x" group-title="x",Travel Channel HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4817
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Science HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10101
+#EXTINF:0 tvg-logo="x" group-title="x",X Natyra AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655146
+#EXTINF:0 tvg-logo="x" group-title="x",Baby TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4821
+#EXTINF:0 tvg-logo="x" group-title="x",RTV 21 Junior AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9956
+#EXTINF:0 tvg-logo="x" group-title="x",Junior TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4828
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Tring AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4826
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Kids AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4825
+#EXTINF:0 tvg-logo="x" group-title="x",Tring Tip TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4823
+#EXTINF:0 tvg-logo="x" group-title="x",Lobi TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10114
+#EXTINF:0 tvg-logo="x" group-title="x",Cufo HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9973
+#EXTINF:0 tvg-logo="x" group-title="x",Cufo AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4827
+#EXTINF:0 tvg-logo="x" group-title="x",Sofia TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4824
+#EXTINF:0 tvg-logo="x" group-title="x",Kids AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9972
+#EXTINF:0 tvg-logo="x" group-title="x",Bang Bang FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4829
+#EXTINF:0 tvg-logo="x" group-title="x",Boomerang AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10216
+#EXTINF:0 tvg-logo="x" group-title="x",Duck TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9960
+#EXTINF:0 tvg-logo="x" group-title="x",Jim Jam [En Audio] AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10098
+#EXTINF:0 tvg-logo="x" group-title="x",Nick [En Audio] AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10095
+#EXTINF:0 tvg-logo="x" group-title="x",Nick Jr AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10217
+#EXTINF:0 tvg-logo="x" group-title="x",------- Music -------
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684880
+#EXTINF:0 tvg-logo="x" group-title="x",RTSH Muzik AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14130
+#EXTINF:0 tvg-logo="x" group-title="x",Folklorit HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10103
+#EXTINF:0 tvg-logo="x" group-title="x",Folklorit AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10120
+#EXTINF:0 tvg-logo="x" group-title="x",Alb Music HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10168
+#EXTINF:0 tvg-logo="x" group-title="x",Top Estrada TV HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10009
+#EXTINF:0 tvg-logo="x" group-title="x",Elrodi TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10121
+#EXTINF:0 tvg-logo="x" group-title="x",Albania TV HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4715
+#EXTINF:0 tvg-logo="x" group-title="x",BBF Music HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10104
+#EXTINF:0 tvg-logo="x" group-title="x",BBF Music AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4734
+#EXTINF:0 tvg-logo="x" group-title="x",X Music Hits AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655147
+#EXTINF:0 tvg-logo="x" group-title="x",Zico TV FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10122
+#EXTINF:0 tvg-logo="x" group-title="x",Click TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10169
+#EXTINF:0 tvg-logo="x" group-title="x",MTV Kosova AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10125
+#EXTINF:0 tvg-logo="x" group-title="x",My Music AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10111
+#EXTINF:0 tvg-logo="x" group-title="x",Supersonic TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10109
+#EXTINF:0 tvg-logo="x" group-title="x",STV Folk AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4733
+#EXTINF:0 tvg-logo="x" group-title="x",Folk AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4736
+#EXTINF:0 tvg-logo="x" group-title="x",Lugina Popullore HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10171
+#EXTINF:0 tvg-logo="x" group-title="x",Syri Blue FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10048
+#EXTINF:0 tvg-logo="x" group-title="x",Turbo Channel AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10113
+#EXTINF:0 tvg-logo="x" group-title="x",Uskana TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10133
+#EXTINF:0 tvg-logo="x" group-title="x",Dasma TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4732
+#EXTINF:0 tvg-logo="x" group-title="x",First Channel FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9948
+#EXTINF:0 tvg-logo="x" group-title="x",First Channel AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4834
+#EXTINF:0 tvg-logo="x" group-title="x",Qifteli FHD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10132
+#EXTINF:0 tvg-logo="x" group-title="x",TV Opoja AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/677924
+#EXTINF:0 tvg-logo="x" group-title="x",TV Mitrovica HD AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/680238
+#EXTINF:0 tvg-logo="x" group-title="x",In TV AL
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685649
+#EXTINF:0 tvg-logo="x" group-title="x",NRK 2 NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5170
+#EXTINF:0 tvg-logo="x" group-title="x",NRK 1 HD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5171
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 Nord HD VIP NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5184
+#EXTINF:0 tvg-logo="x" group-title="x",Max HD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5192
+#EXTINF:0 tvg-logo="x" group-title="x",TV3 Norge NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5197
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",########## Norway ##########
+#EXTINF:0 tvg-logo="x" group-title="x",YLE 2 FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6413
+#EXTINF:0 tvg-logo="x" group-title="x",VOX FHD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6415
+#EXTINF:0 tvg-logo="x" group-title="x",VMotor HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6416
+#EXTINF:0 tvg-logo="x" group-title="x",VFilm Hits HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6421
+#EXTINF:0 tvg-logo="x" group-title="x",TV12 FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6427
+#EXTINF:0 tvg-logo="x" group-title="x",TV3 FHD VIP DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6436
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 Norge NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6439
+#EXTINF:0 tvg-logo="x" group-title="x",TV Norge NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6440
+#EXTINF:0 tvg-logo="x" group-title="x",TNT HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6453
+#EXTINF:0 tvg-logo="x" group-title="x",Max Norway FHD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6472
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal 11 FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6474
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal 9 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6475
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal 5 FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6477
+#EXTINF:0 tvg-logo="x" group-title="x",DR2 HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6495
+#EXTINF:0 tvg-logo="x" group-title="x",DR 1 HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6496
+#EXTINF:0 tvg-logo="x" group-title="x",C More Hockey FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6502
+#EXTINF:0 tvg-logo="x" group-title="x",C More Stars FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6504
+#EXTINF:0 tvg-logo="x" group-title="x",C More Series FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6505
+#EXTINF:0 tvg-logo="x" group-title="x",VFilm Action HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7045
+#EXTINF:0 tvg-logo="x" group-title="x",VSeries HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7048
+#EXTINF:0 tvg-logo="x" group-title="x",TV6 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7051
+#EXTINF:0 tvg-logo="x" group-title="x",TV4 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7052
+#EXTINF:0 tvg-logo="x" group-title="x",TV3 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7055
+#EXTINF:0 tvg-logo="x" group-title="x",TV12 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7056
+#EXTINF:0 tvg-logo="x" group-title="x",Travel Channel HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7058
+#EXTINF:0 tvg-logo="x" group-title="x",SVT2 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7062
+#EXTINF:0 tvg-logo="x" group-title="x",SVT1 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7063
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal 9 FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7067
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Channel HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7072
+#EXTINF:0 tvg-logo="x" group-title="x",C More Series HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7075
+#EXTINF:0 tvg-logo="x" group-title="x",C More Live HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7076
+#EXTINF:0 tvg-logo="x" group-title="x",C More Hits HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7078
+#EXTINF:0 tvg-logo="x" group-title="x",C More First HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7081
+
+
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",########## Sweden ##########
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Brit FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7419
+#EXTINF:0 tvg-logo="x" group-title="x",TV3 FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7434
+#EXTINF:0 tvg-logo="x" group-title="x",TV10 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7435
+#EXTINF:0 tvg-logo="x" group-title="x",National Geo Wild FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7437
+#EXTINF:0 tvg-logo="x" group-title="x",C More Live FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7445
+#EXTINF:0 tvg-logo="x" group-title="x",C More Fotboll FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7446
+#EXTINF:0 tvg-logo="x" group-title="x",C More Golf HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7448
+#EXTINF:0 tvg-logo="x" group-title="x",C More First FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7449
+#EXTINF:0 tvg-logo="x" group-title="x",C More Stars HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7450
+#EXTINF:0 tvg-logo="x" group-title="x",DK 4 DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7793
+#EXTINF:0 tvg-logo="x" group-title="x",Investigation Discovery DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7794
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Investigation DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7796
+#EXTINF:0 tvg-logo="x" group-title="x",Canal 9 FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7799
+#EXTINF:0 tvg-logo="x" group-title="x",TLC DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7800
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 Zulu FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7802
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Channel HD VIP DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7803
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 Lorry HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7806
+#EXTINF:0 tvg-logo="x" group-title="x",TV3 Puls FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7807
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 News HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7809
+#EXTINF:0 tvg-logo="x" group-title="x",6 Eren HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7810
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal 5 FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7811
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal 4 FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7812
+#EXTINF:0 tvg-logo="x" group-title="x",DR 1 FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7815
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",########## Denmark ##########
+#EXTINF:0 tvg-logo="x" group-title="x",TV7 FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7828
+#EXTINF:0 tvg-logo="x" group-title="x",MTV3 HD FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7830
+#EXTINF:0 tvg-logo="x" group-title="x",Nelonen4 Prime FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7831
+#EXTINF:0 tvg-logo="x" group-title="x",Nelonen Maailma FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7832
+#EXTINF:0 tvg-logo="x" group-title="x",Nelonen FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7833
+#EXTINF:0 tvg-logo="x" group-title="x",YLE 2 HD FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7834
+#EXTINF:0 tvg-logo="x" group-title="x",YLE 1 HD FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7835
+#EXTINF:0 tvg-logo="x" group-title="x",MTV DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8056
+#EXTINF:0 tvg-logo="x" group-title="x",Disney XD VIP DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8058
+#EXTINF:0 tvg-logo="x" group-title="x",Disney Channel DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8059
+#EXTINF:0 tvg-logo="x" group-title="x",TV7 Plus HD FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8060
+#EXTINF:0 tvg-logo="x" group-title="x",VMotor HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8141
+#EXTINF:0 tvg-logo="x" group-title="x",VNature FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8145
+#EXTINF:0 tvg-logo="x" group-title="x",VFilm Premiere FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8150
+#EXTINF:0 tvg-logo="x" group-title="x",VFilm Family DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8152
+#EXTINF:0 tvg-logo="x" group-title="x",VFilm Family HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8153
+#EXTINF:0 tvg-logo="x" group-title="x",VFilm Action HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8154
+#EXTINF:0 tvg-logo="x" group-title="x",VFilm Premiere HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8157
+#EXTINF:0 tvg-logo="x" group-title="x",TV6 HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8163
+#EXTINF:0 tvg-logo="x" group-title="x",TV3 HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8167
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 FRI DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8171
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8176
+#EXTINF:0 tvg-logo="x" group-title="x",DR2 FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8179
+#EXTINF:0 tvg-logo="x" group-title="x",Animal Planet FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8181
+#EXTINF:0 tvg-logo="x" group-title="x",Cartoon Network HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8187
+#EXTINF:0 tvg-logo="x" group-title="x",C More Live DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8189
+#EXTINF:0 tvg-logo="x" group-title="x",C More Live 3 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8471
+#EXTINF:0 tvg-logo="x" group-title="x",Nickelodeon DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11607
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12876
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12877
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 Bornholm HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12878
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 Nord DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12879
+#EXTINF:0 tvg-logo="x" group-title="x",Fem HD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12885
+#EXTINF:0 tvg-logo="x" group-title="x",Vox HD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13176
+#EXTINF:0 tvg-logo="x" group-title="x",V6 FHD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13179
+#EXTINF:0 tvg-logo="x" group-title="x",TV 6 Norge NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13180
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 Livsstil NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13185
+#EXTINF:0 tvg-logo="x" group-title="x",TV2 Humor FHD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13186
+#EXTINF:0 tvg-logo="x" group-title="x",Kanal 10 Norge NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13188
+#EXTINF:0 tvg-logo="x" group-title="x",Fox HD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13189
+#EXTINF:0 tvg-logo="x" group-title="x",NRK 3/Super HD NO
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13196
+#EXTINF:0 tvg-logo="x" group-title="x",VFotboll HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13202
+#EXTINF:0 tvg-logo="x" group-title="x",Animal Planet HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13206
+#EXTINF:0 tvg-logo="x" group-title="x",Animal Planet FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13207
+#EXTINF:0 tvg-logo="x" group-title="x",TLC HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13210
+#EXTINF:0 tvg-logo="x" group-title="x",H2 HD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13212
+#EXTINF:0 tvg-logo="x" group-title="x",TV8 FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13213
+#EXTINF:0 tvg-logo="x" group-title="x",TV6 SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13214
+#EXTINF:0 tvg-logo="x" group-title="x",TV4 FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13216
+#EXTINF:0 tvg-logo="x" group-title="x",TV3 Max FHD VIP DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15006
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Earth FHD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20036
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic FHD SE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20040
+#EXTINF:0 tvg-logo="x" group-title="x",H2 HD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20041
+#EXTINF:0 tvg-logo="x" group-title="x",C More Hits HD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20044
 #EXTINF:0 tvg-logo="x" group-title="x",C More First FHD SE [Multi-Sub]
 #EXTVLCOPT:network-caching=1000
@@ -12775,3 +14041,424 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/648340
 #EXTINF:0 tvg-logo="x" group-title="x",TV Land Classic HD US
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/655120
+VLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20044
+#EXTINF:0 tvg-logo="x" group-title="x",C More First FHD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20045
+#EXTINF:0 tvg-logo="x" group-title="x",C More Series FHD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20046
+#EXTINF:0 tvg-logo="x" group-title="x",C More Stars FHD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20047
+#EXTINF:0 tvg-logo="x" group-title="x",VSeries HD SE [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20054
+#EXTINF:0 tvg-logo="x" group-title="x",Nick Jr DK [Multi-Audio]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20058
+#EXTINF:0 tvg-logo="x" group-title="x",C More Stars FHD DK [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20059
+#EXTINF:0 tvg-logo="x" group-title="x",C More Series FHD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20066
+#EXTINF:0 tvg-logo="x" group-title="x",Nat Geo Wild HD DK [Multi-Sub]
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20067
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery World DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20068
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Science DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/20069
+#EXTINF:0 tvg-logo="x" group-title="x",TV 7 News Heaven FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53575
+#EXTINF:0 tvg-logo="x" group-title="x",TV 7 EESTI FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53576
+#EXTINF:0 tvg-logo="x" group-title="x",TV 7 HD FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53577
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Channel FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53583
+#EXTINF:0 tvg-logo="x" group-title="x",Yle Teema Fem FHD FI
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53584
+#EXTINF:0 tvg-logo="x" group-title="x",C More Fotboll DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625237
+#EXTINF:0 tvg-logo="x" group-title="x",TV3+ HD DK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/647429
+#EXTINF:0 tvg-logo="x" group-title="x",True Movies 1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6523
+#EXTINF:0 tvg-logo="x" group-title="x",Sony Movies Classic UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6524
+#EXTINF:0 tvg-logo="x" group-title="x",Sony Channel UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6525
+#EXTINF:0 tvg-logo="x" group-title="x",Travel Channel FHD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6526
+#EXTINF:0 tvg-logo="x" group-title="x",TG4 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6529
+#EXTINF:0 tvg-logo="x" group-title="x",Sky News UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6548
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Select HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6551
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Sci-Fi & Horror UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6552
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Premiere UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6553
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Family HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6555
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Action UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6558
+#EXTINF:0 tvg-logo="x" group-title="x",Real Lives UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6564
+#EXTINF:0 tvg-logo="x" group-title="x",Really UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6565
+#EXTINF:0 tvg-logo="x" group-title="x",Nicktoons UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6570
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic Wild UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6573
+#EXTINF:0 tvg-logo="x" group-title="x",More4 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6581
+#EXTINF:0 tvg-logo="x" group-title="x",London Live UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6583
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 1 [B] UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6587
+#EXTINF:0 tvg-logo="x" group-title="x",ITV Be UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6588
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 4 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6589
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 3 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6590
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6592
+#EXTINF:0 tvg-logo="x" group-title="x",H2 HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6596
+#EXTINF:0 tvg-logo="x" group-title="x",Gold UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6599
+#EXTINF:0 tvg-logo="x" group-title="x",Food Network UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6601
+#EXTINF:0 tvg-logo="x" group-title="x",Fox News HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6602
+#EXTINF:0 tvg-logo="x" group-title="x",Fox UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6604
+#EXTINF:0 tvg-logo="x" group-title="x",Five UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6606
+#EXTINF:0 tvg-logo="x" group-title="x",E4 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6613
+#EXTINF:0 tvg-logo="x" group-title="x",Crime & Investigation UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627
+#EXTINF:0 tvg-logo="x" group-title="x",CBS Reality UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6634
+#EXTINF:0 tvg-logo="x" group-title="x",CBS Justice UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6636
+#EXTINF:0 tvg-logo="x" group-title="x",Boomerang HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6651
+#EXTINF:0 tvg-logo="x" group-title="x",Bet UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6654
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Four HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6656
+#EXTINF:0 tvg-logo="x" group-title="x",Alibi HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6663
+#EXTINF:0 tvg-logo="x" group-title="x",5 Star UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6665
+
+
+
+
+
+#EXTINF:0 tvg-logo="x" group-title="x",########## United Kingdom ##########
+#EXTINF:0 tvg-logo="x" group-title="x",Rok TV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7827
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Witness UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7912
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Sports Arena HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7926
+#EXTINF:0 tvg-logo="x" group-title="x",RTE Jr UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9501
+#EXTINF:0 tvg-logo="x" group-title="x",MTV 80s UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9509
+#EXTINF:0 tvg-logo="x" group-title="x",TCM HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9511
+#EXTINF:0 tvg-logo="x" group-title="x",S4C UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9512
+#EXTINF:0 tvg-logo="x" group-title="x",AMC HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9515
+#EXTINF:0 tvg-logo="x" group-title="x",E! UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9516
+#EXTINF:0 tvg-logo="x" group-title="x",Travel Channel HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9517
+#EXTINF:0 tvg-logo="x" group-title="x",Horse & Country UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9525
+#EXTINF:0 tvg-logo="x" group-title="x",Sony Movies UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9528
+#EXTINF:0 tvg-logo="x" group-title="x",ABC News UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9535
+#EXTINF:0 tvg-logo="x" group-title="x",Euronews UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9545
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Parliament UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9546
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Entertainment UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9548
+#EXTINF:0 tvg-logo="x" group-title="x",BBC Two [Scotland] UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9551
+#EXTINF:0 tvg-logo="x" group-title="x",Challenge UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9556
+#EXTINF:0 tvg-logo="x" group-title="x",Capital TV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11459
+#EXTINF:0 tvg-logo="x" group-title="x",5 Star +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11461
+#EXTINF:0 tvg-logo="x" group-title="x",Viceland HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13219
+#EXTINF:0 tvg-logo="x" group-title="x",Alibi UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15693
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Select FHD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15711
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Sci-Fi & Horror HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15712
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Disney HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15717
+#EXTINF:0 tvg-logo="x" group-title="x",Sky Cinema Action HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15720
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 2 +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15730
+#EXTINF:0 tvg-logo="x" group-title="x",ITV 1 HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15734
+#EXTINF:0 tvg-logo="x" group-title="x",Fine Living UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15745
+#EXTINF:0 tvg-logo="x" group-title="x",Fight Network UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15747
+#EXTINF:0 tvg-logo="x" group-title="x",Discovery Home & Health +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15761
+#EXTINF:0 tvg-logo="x" group-title="x",Dave ja vu UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15764
+#EXTINF:0 tvg-logo="x" group-title="x",Crime & Investigation HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15766
+#EXTINF:0 tvg-logo="x" group-title="x",Box Nation VIP UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15783
+#EXTINF:0 tvg-logo="x" group-title="x",Box Hits UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15785
+#EXTINF:0 tvg-logo="x" group-title="x",Nick Jr HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15806
+#EXTINF:0 tvg-logo="x" group-title="x",National Geographic Wild HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15810
+#EXTINF:0 tvg-logo="x" group-title="x",More4 +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15821
+#EXTINF:0 tvg-logo="x" group-title="x",Magic UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15824
+#EXTINF:0 tvg-logo="x" group-title="x",Kiss UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15826
+#EXTINF:0 tvg-logo="x" group-title="x",Kerrang TV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15827
+#EXTINF:0 tvg-logo="x" group-title="x",ID +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15834
+#EXTINF:0 tvg-logo="x" group-title="x",Home&Health +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15835
+#EXTINF:0 tvg-logo="x" group-title="x",MTV 90s UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15845
+#EXTINF:0 tvg-logo="x" group-title="x",Quest Red UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15847
+#EXTINF:0 tvg-logo="x" group-title="x",Comedy Central Extra UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15855
+#EXTINF:0 tvg-logo="x" group-title="x",Comedy Extra UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15856
+#EXTINF:0 tvg-logo="x" group-title="x",Yesterday +1 UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15859
+#EXTINF:0 tvg-logo="x" group-title="x",UTV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15866
+#EXTINF:0 tvg-logo="x" group-title="x",The Box UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15880
+#EXTINF:0 tvg-logo="x" group-title="x",Syfy HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15886
+#EXTINF:0 tvg-logo="x" group-title="x",Sony Sab UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15895
+#EXTINF:0 tvg-logo="x" group-title="x",Sky ONE HD UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15902
+#EXTINF:0 tvg-logo="x" group-title="x",Colors TV UK
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16881
+#EXTINF:0 tvg-logo="x" group-title="x",########## Belgium ##########
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8193
+#EXTINF:0 tvg-logo="x" group-title="x",Canvas FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5932
+#EXTINF:0 tvg-logo="x" group-title="x",Club RTL FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5931
+#EXTINF:0 tvg-logo="x" group-title="x",La Deux BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5928
+#EXTINF:0 tvg-logo="x" group-title="x",La Trois BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5927
+#EXTINF:0 tvg-logo="x" group-title="x",La Une BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5929
+#EXTINF:0 tvg-logo="x" group-title="x",Plug RTL FHD LU
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5926
+#EXTINF:0 tvg-logo="x" group-title="x",RTL TVI HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5925
+#EXTINF:0 tvg-logo="x" group-title="x",Vier FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5922
+#EXTINF:0 tvg-logo="x" group-title="x",VIJF BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5921
+#EXTINF:0 tvg-logo="x" group-title="x",VTM 3 HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5920
+#EXTINF:0 tvg-logo="x" group-title="x",VTM FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5919
+#EXTINF:0 tvg-logo="x" group-title="x",Een FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5923
+#EXTINF:0 tvg-logo="x" group-title="x",AB3 BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5935
+#EXTINF:0 tvg-logo="x" group-title="x",AB Explore HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5934
+#EXTINF:0 tvg-logo="x" group-title="x",Eclips TV BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5933
+#EXTINF:0 tvg-logo="x" group-title="x",Serie HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5924
+#EXTINF:0 tvg-logo="x" group-title="x",Canal Zoom HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13424
+#EXTINF:0 tvg-logo="x" group-title="x",VTM 4 BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13426
+#EXTINF:0 tvg-logo="x" group-title="x",Ketnet BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13427
+#EXTINF:0 tvg-logo="x" group-title="x",LUX TV LU
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13414
+#EXTINF:0 tvg-logo="x" group-title="x",Notele HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13422
+#EXTINF:0 tvg-logo="x" group-title="x",NRJ Hits HD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13421
+#EXTINF:0 tvg-logo="x" group-title="x",VTM 2 FHD BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13428
+#EXTINF:0 tvg-logo="x" group-title="x",TVL BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13415
+#EXTINF:0 tvg-logo="x" group-title="x",Rijnmond BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13420
+#EXTINF:0 tvg-logo="x" group-title="x",VTM Kids BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13416
+#EXTINF:0 tvg-logo="x" group-title="x",VTM Nieuws BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13419
+#EXTINF:0 tvg-logo="x" group-title="x",ZES BE
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13413
+#EXTINF:0 tvg-logo="x" group-title="x",RTL Luxembourg LU
+#EXTV
